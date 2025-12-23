@@ -1,5 +1,5 @@
-{ 
-  "mensaje": "🏫FELIZ FIESTA NAVIDEÑA",
+{
+  "mensaje": "🏫 Portal FCEFA 2025",
   "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766508944/fondo-plano-navidad_23-2149729743_skzng1.jpg",
   "enlaces": [
     {
@@ -12,23 +12,27 @@
     },
     {
       "nombre": "MOODLE FCEFA",
-      "url": "https://moodle.fcefa.edu.bo/login/index.php"
+      "url": "https://moodle.fcefa.edu.bo/login/index.php",
+      "font_size": 32,
+      "altura": 70,
+      "color_fondo": "#003366",
+      "color_texto": "#FFFFFF"
     },
     {
       "nombre": "PÁGINA OFICIAL FCEFA",
-      "url": "https://www.fcefa.edu.bo/index.php?view=featured"
+      "url": "https://www.fcefa.edu.bo/index.php?view=featured",
+      "font_size": 28,
+      "altura": 60,
+      "color_fondo": "#388E3C",
+      "color_texto": "#FFFFFF"
     },
     {
-      "nombre": "OBTEN TUS CLAVES FCEFA",
-      "url": "http://claves.fcefa.edu.bo/"
-    },
-    {
-      "nombre": "DONACIONES QR",
-      "url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766499962/preview_jxexbk.png"
-    },
-    {
-      "nombre": "CONTACTANOS AL WHATSAPP",
-      "url": "https://wa.me/59173818974"
+      "nombre": "CLAVES FCEFA",
+      "url": "http://claves.fcefa.edu.bo/",
+      "font_size": 26,
+      "altura": 55,
+      "color_fondo": "#7B1FA2",
+      "color_texto": "#FFFFFF"
     }
   ]
 }
