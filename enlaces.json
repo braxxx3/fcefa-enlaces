@@ -7,7 +7,7 @@
       "url": "http://181.115.200.60:8080/sia_fcefaech/",
       "font_size": 28,
       "altura": 60,
-      "color_fondo": "#D32F2F",
+      "color_fondo": "#C62828",
       "color_texto": "#FFFFFF"
     },
     {
@@ -15,7 +15,7 @@
       "url": "https://moodle.fcefa.edu.bo/login/index.php",
       "font_size": 32,
       "altura": 70,
-      "color_fondo": "#003366",
+      "color_fondo": "#C62828",
       "color_texto": "#FFFFFF"
     },
     {
@@ -23,13 +23,13 @@
       "url": "https://www.fcefa.edu.bo/index.php?view=featured",
       "font_size": 28,
       "altura": 60,
-      "color_fondo": "#388E3C",
+      "color_fondo": "#C62828",
       "color_texto": "#FFFFFF"
     },
     {
       "nombre": "CLAVES FCEFA",
       "url": "http://claves.fcefa.edu.bo/",
-      "font_size": 26,
+      "font_size": 28,
       "altura": 55,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF"
