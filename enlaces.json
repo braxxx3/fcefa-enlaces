@@ -1,0 +1,24 @@
+{
+  "enlaces": [
+    {
+      "nombre": "SIA CHALLAPATA",
+      "url": "http://181.115.200.60:8080/sia_fcefaech/"
+    },
+    {
+      "nombre": "MOODLE FCEFA",
+      "url": "https://moodle.fcefa.edu.bo/login/index.php"
+    },
+    {
+      "nombre": "PÁGINA OFICIAL FCEFA",
+      "url": "https://www.fcefa.edu.bo/index.php?view=featured"
+    },
+    {
+      "nombre": "CLAVES FCEFA",
+      "url": "http://claves.fcefa.edu.bo/"
+    },
+    {
+      "nombre": "FORMULARIO DESCARGA",
+      "url": "https://www.fcefa.edu.bo/images/formulario.pdf"
+    }
+  ]
+}
