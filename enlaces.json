@@ -4,7 +4,11 @@
   "enlaces": [
     {
       "nombre": "SIA CHALLAPATA",
-      "url": "http://181.115.200.60:8080/sia_fcefaech/"
+      "url": "http://181.115.200.60:8080/sia_fcefaech/",
+      "font_size": 28,
+      "altura": 60,
+      "color_fondo": "#D32F2F",
+      "color_texto": "#FFFFFF"
     },
     {
       "nombre": "MOODLE FCEFA",
