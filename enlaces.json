@@ -1,7 +1,11 @@
 {
-  "mensaje": "🏫 Portal FCEFA 2025",
-  "logo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766504091/WhatsApp_Image_2025-12-22_at_9.54.03_PM_vx7t5j.png",
+  "mensaje": "FELIZ NAVIDAD UNIVERSITARIOS",
   "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766508944/fondo-plano-navidad_23-2149729743_skzng1.jpg",
+  "carousel_urls":
+  [
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766504091/WhatsApp_Image_2025-12-22_at_9.54.03_PM_vx7t5j.png",
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766582151/feliz-navidad-merry-christmas-in-spanish-text-for-card-for-your-design-christmas-tree-glass_toqnbu.png"
+  ],
   "enlaces": [
     {
       "nombre": "SIA CHALLAPATA",
