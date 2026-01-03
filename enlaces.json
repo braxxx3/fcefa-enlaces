@@ -63,6 +63,70 @@
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF"
     },
+        {
+      "nombre": "BIBLIOTECA VIRTUAL eLIBROS FCEFA",
+      "url": "https://elibro.net/es/lc/fcefa/inicio",
+      "font_size": 32,
+      "altura": 70,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "eBIBLIOTECA libros",
+      "url": "https://ebiblioteca.org/lecturas/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Google libros",
+      "url": "https://books.google.com/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Cervantes libros",
+      "url": "https://www.cervantesvirtual.com/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "libros Europeos",
+      "url": "https://www.europeana.eu/es",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "WIKIsource",
+      "url": "https://es.wikisource.org/wiki/Portada",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Freeditorial libros",
+      "url": "https://freeditorial.com/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "epulibros",
+      "url": "https://www.epublibre.org/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
     {
       "nombre": "CLAVES FCEFA",
       "url": "http://claves.fcefa.edu.bo/",
@@ -74,6 +138,14 @@
     {
       "nombre": "AYUDANOS A MEJORAR DONACIONES",
       "url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767441946/Queremos_expresar_nuestro_m%C3%A1s_sincero_agradecimiento_a_todos_aquellos_que_han_contribuido_con_sus_generosas_donaciones_para_el_desarrollo_y_mejora_de_la_aplicaci%C3%B3n_ULink._Su_apoyo_no_solo_refleja_fetp4q.png",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#000000",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "CONTACTANOS AL WHATSAPP",
+      "url": "https://wa.me/qr/BNFFC2RRH6HNC1",
       "font_size": 28,
       "altura": 55,
       "color_fondo": "#000000",
