@@ -8,6 +8,14 @@
   ],
   "enlaces": [
     {
+      "nombre": "SIA ORURO",
+      "url": "http://fcefa.uto.edu.bo:8080/estudiante/",
+      "font_size": 28,
+      "altura": 60,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
       "nombre": "SIA CHALLAPATA",
       "url": "http://181.115.200.60:8080/sia_fcefaech/",
       "font_size": 28,
@@ -52,7 +60,7 @@
       "url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767441946/Queremos_expresar_nuestro_m%C3%A1s_sincero_agradecimiento_a_todos_aquellos_que_han_contribuido_con_sus_generosas_donaciones_para_el_desarrollo_y_mejora_de_la_aplicaci%C3%B3n_ULink._Su_apoyo_no_solo_refleja_fetp4q.png",
       "font_size": 28,
       "altura": 55,
-      "color_fondo": "#C62828",
+      "color_fondo": "#000000",
       "color_texto": "#FFFFFF"
     }
   ]
