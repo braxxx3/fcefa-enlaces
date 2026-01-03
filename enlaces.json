@@ -38,6 +38,22 @@
       "altura": 55,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "VERANO FCEFA 2026",
+      "url": "http://181.115.156.243/veranofcefa/verano.aspx",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "AYUDANOS A MEJORAR DONACIONES",
+      "url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767441946/Queremos_expresar_nuestro_m%C3%A1s_sincero_agradecimiento_a_todos_aquellos_que_han_contribuido_con_sus_generosas_donaciones_para_el_desarrollo_y_mejora_de_la_aplicaci%C3%B3n_ULink._Su_apoyo_no_solo_refleja_fetp4q.png",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
     }
   ]
 }
