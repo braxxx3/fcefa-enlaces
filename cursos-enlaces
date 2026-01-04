@@ -1,8 +1,62 @@
 [
   {
-    "nombre": "Curso de Matemáticas",
-    "imagen": "https://example.com/imagen.jpg",
-    "link": "https://example.com/curso",
-    "descripcion": "Descripción del curso."
+    "nombre": "Python for Data Science, AI & Development",
+    "imagen": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=600&fit=crop",
+    "link": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "descripcion": "Aprende Python de forma práctica para análisis de datos, IA y desarrollo. Incluye NumPy, Pandas, Matplotlib y proyectos reales. Certificado profesional de IBM en Coursera. Duración: 3-6 meses."
+  },
+  {
+    "nombre": "Machine Learning de Stanford",
+    "imagen": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=600&fit=crop",
+    "link": "https://www.coursera.org/learn/machine-learning",
+    "descripcion": "El curso más famoso de ML por Andrew Ng. Aprende algoritmos de supervisado, no supervisado y mejora de redes neuronales. Más de 4 millones de estudiantes. 11 semanas de duración."
+  },
+  {
+    "nombre": "Desarrollo Web Full Stack",
+    "imagen": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=600&fit=crop",
+    "link": "https://www.coursera.org/learn/desarrollo-web-full-stack",
+    "descripcion": "Universidad Austral. Domina frontend con React y backend con Node.js. Base de datos, APIs RESTful y despliegue en la nube. Proyecto final integrador. 4 meses (6 horas/semana)."
+  },
+  {
+    "nombre": "CS50: Introduction to Computer Science",
+    "imagen": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=600&fit=crop",
+    "link": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+    "descripcion": "HarvardX. El curso introductorio más famoso del mundo. Desde C y Python hasta SQL, HTML y JavaScript. Pensamiento computacional y estructuras de datos. Gratis con opción a certificado ($199)."
+  },
+  {
+    "nombre": "Fundamentos de Marketing Digital",
+    "imagen": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=600&fit=crop",
+    "link": "https://learndigital.withgoogle.com/activate/course/digital-marketing",
+    "descripcion": "Google Digital Garage. Certificación gratuita y reconocida. SEO, SEM, redes sociales, analítica y estrategia de contenidos. 40 horas con evaluaciones prácticas. Valido por IAB Europe."
+  },
+  {
+    "nombre": "AI For Everyone",
+    "imagen": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&h=600&fit=crop",
+    "link": "https://www.coursera.org/learn/ai-for-everyone",
+    "descripcion": "Deeplearning.ai. Curso no técnico sobre IA para negocios. Qué es Machine Learning, proyectos de IA en empresas, estrategia y impacto social. Perfecto para directivos. 4 semanas."
+  },
+  {
+    "nombre": "Análisis de Datos con Excel",
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=600&fit=crop",
+    "link": "https://www.coursera.org/learn/analisis-datos-excel",
+    "descripcion": "Universidad de Valle. De básico a avanzado: tablas dinámicas, Power Query, macros y visualización avanzada. Proyectos empresariales reales. Certificado de Coursera. 6 semanas (4 horas/semana)."
+  },
+  {
+    "nombre": "IBM Cybersecurity Analyst",
+    "imagen": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop",
+    "link": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst",
+    "descripcion": "Certificado profesional de IBM. Herramientas de ciberseguridad, incident response, pentesting y cumplimiento. Laboratorios prácticos con QRadar. Preparación para puestos entry-level. 8 meses."
+  },
+  {
+    "nombre": "Introducción a la Programación con Java",
+    "imagen": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=800&h=600&fit=crop",
+    "link": "https://www.edx.org/course/introduction-programming-java-uc3mx-it-1-1x",
+    "descripcion": "Universidad Carlos III de Madrid. Fundamentos de POO con Java. Estructuras de control, clases, herencia y manejo de excepciones. Enfoque práctico con BlueJ. Gratis (certificado opcional $50)."
+  },
+  {
+    "nombre": "Gestión de Proyectos Ágiles con Scrum",
+    "imagen": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop",
+    "link": "https://www.coursera.org/learn/gestion-de-proyectos-agiles-scrum",
+    "descripcion": "LearnQuest. Scrum Master, Product Owner y ceremonias ágiles. Planning poker, burndown charts y transformación digital. Casos reales de empresas. Certificado de finalización. 4 semanas."
   }
 ]
