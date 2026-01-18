@@ -5,7 +5,9 @@
     "link": "https://www.coursera.org/professional-certificates/ibm-data-science",
     "descripcion": "Aprende Python de forma práctica...",
     "gratis": false,
-    "precio": "$49 USD / mes"
+    "precio": "$49 USD / mes",
+    "ContactoDistribuidor": "59170000000",
+    "codigo_autorizacion": "1234"
   },
   {
     "nombre": "CS50: Introduction to Computer Science",
@@ -13,7 +15,9 @@
     "link": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
     "descripcion": "HarvardX. El curso introductorio más famoso...",
     "gratis": true,
-    "precio": "0.00"
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
   },
   {
     "nombre": "Curso Exclusivo de Hacking Ético",
@@ -21,6 +25,8 @@
     "link": "...",
     "descripcion": "...",
     "gratis": false,
-    "precio": "$199.99"
+    "precio": "$199.99",
+    "ContactoDistribuidor": "59170000000",
+    "codigo_autorizacion": "5678"
   }
 ]
