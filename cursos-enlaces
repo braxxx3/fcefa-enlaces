@@ -5,7 +5,7 @@
     "link": "https://www.coursera.org/professional-certificates/ibm-data-science",
     "descripcion": "Aprende Python de forma práctica aplicado a Ciencia de Datos, Inteligencia Artificial y desarrollo profesional. Incluye librerías como Pandas, NumPy, Scikit-learn y Matplotlib. Ideal para principiantes sin experiencia previa.",
     "gratis": false,
-    "precio": "$49 USD / mes",
+    "precio": "20 bs/ mes",
     "ContactoDistribuidor": "59170000000",
     "codigo_autorizacion": "1234"
   },
@@ -25,7 +25,7 @@
     "link": "https://github.com/braxxx3/hacking-etico-fcefa",
     "descripcion": "Curso completo de Hacking Ético con recursos prácticos:\n\n• Video 1: Fundamentos de Hacking Ético\n• Video 2: Técnicas para Penetración y Análisis de Vulnerabilidades\n• Video 3: Hazlo tú mismo – Laboratorios prácticos paso a paso\n\n✅ Incluye repositorio GitHub con scripts y herramientas\n✅ Documentos PDF descargables (guías, cheatsheets, protocolos)\n✅ Acceso a entornos virtuales de práctica\n\nEn este curso obtendrás:\n- Certificación interna FCEFA\n- Dominio de herramientas como Nmap, Metasploit, Wireshark\n- Conocimientos en redes, criptografía y seguridad web\n- Base sólida para certificaciones CEH o OSCP",
     "gratis": false,
-    "precio": "$199.99",
+    "precio": "15 bs",
     "ContactoDistribuidor": "59170000000",
     "codigo_autorizacion": "5678"
   },
@@ -35,7 +35,7 @@
     "link": "https://github.com/braxxx3/fullstack-react-node-fcefa",
     "descripcion": "Domina el desarrollo web moderno desde cero. Aprende HTML, CSS, JavaScript, React, Node.js, Express y MongoDB. Proyectos reales incluidos:\n\n• Aplicación de tareas (To-Do List)\n• Red social básica\n• API REST personalizada\n\n✅ Repositorio GitHub con código fuente\n✅ PDFs explicativos por módulo\n✅ Soporte vía WhatsApp para dudas técnicas\n\nIdeal para quienes quieren lanzar su primera aplicación o emprender en tecnología.",
     "gratis": false,
-    "precio": "$89.99",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59170000000",
     "codigo_autorizacion": "9012"
   }
