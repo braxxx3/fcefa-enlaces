@@ -1,34 +1,19 @@
 [
   {
-    "nombre": "CURSO DE GUITARRA PARA PRINCIPIANTES,
+    "nombre": "CURSO DE GUITARRA PARA PRINCIPIANTES",
     "imagen": "https://imgs.search.brave.com/GfSuarLV-hMnxaSZXYYjeFsks_cZrbSoxwoMB8hUe3o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lc2N1/ZWxhbXVzaWNhbG9u/bGluZS5jb20vd3At/Y29udGVudC91cGxv/YWRzL21lam9yZXMt/Y3Vyc29zLWRlLWd1/aXRhcnJhLW9ubGlu/ZV8uanBn",
     "link": "https://1024terabox.com/s/1vdJZApI7PUXLSAwUx-7eug",
-    "descripcion": "Aprende GUITARRA DESDE CERO de forma fácil y práctica. Domina acordes, ritmos y técnicas esenciales para tocar tus primeras canciones rápidamente, sin conocimientos previos y con lecciones claras paso a paso.
-    ",
+    "descripcion": "Aprende guitarra desde cero de forma fácil y práctica. Domina acordes, ritmos y técnicas esenciales para tocar tus primeras canciones rápidamente, sin conocimientos previos y con lecciones claras paso a paso.",
     "gratis": false,
     "precio": "5 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "k237"
   },
   {
-    "nombre": "CURSO DE BATERISTA ROKSTAR",
+    "nombre": "CURSO DE BATERISTA ROCKSTAR",
     "imagen": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1768747516/CURSO_DE_BATERISTA_dpxmst.jpg",
     "link": "https://1024terabox.com/s/1FY9b8MpJRY4idMEZ33HIOg",
-    "descripcion": " # 🥁 Curso de Batería – De Cero a Ritmos Sólidos
-      Curso práctico de **batería** enfocado en desarrollar una base rítmica sólida desde los **fundamentos** hasta la **aplicación real en el instrumento**.
-      
-      Incluye:
-      - Historia y fundamentos de la batería  
-      - Técnica de manos y pies  
-      - Rudimentos esenciales aplicados al set  
-      - Ritmos básicos y avanzados  
-      - Fills, coordinación e independencia  
-      - Ejercicios prácticos en video y material PDF  
-      
-      🎯 **Objetivo:** formar bateristas con buen tiempo, control, groove y seguridad al tocar, ideal para **principiantes e intermedios**.
-      
-      📂 Contenido estructurado en sesiones progresivas y fáciles de seguir.
-         ",
+    "descripcion": "Curso práctico de batería enfocado en desarrollar una base rítmica sólida desde los fundamentos hasta la aplicación real en el instrumento. Incluye técnica de manos y pies, rudimentos, ritmos básicos y avanzados, fills, coordinación, ejercicios en video y material PDF. Ideal para principiantes e intermedios.",
     "gratis": true,
     "precio": "0.00",
     "ContactoDistribuidor": "",
@@ -38,7 +23,7 @@
     "nombre": "Curso Exclusivo de Hacking Ético",
     "imagen": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop",
     "link": "https://github.com/braxxx3/hacking-etico-fcefa",
-    "descripcion": "Curso completo de Hacking Ético con recursos prácticos:\n\n• Video 1: Fundamentos de Hacking Ético\n• Video 2: Técnicas para Penetración y Análisis de Vulnerabilidades\n• Video 3: Hazlo tú mismo – Laboratorios prácticos paso a paso\n\n✅ Incluye repositorio GitHub con scripts y herramientas\n✅ Documentos PDF descargables (guías, cheatsheets, protocolos)\n✅ Acceso a entornos virtuales de práctica\n\nEn este curso obtendrás:\n- Certificación interna FCEFA\n- Dominio de herramientas como Nmap, Metasploit, Wireshark\n- Conocimientos en redes, criptografía y seguridad web\n- Base sólida para certificaciones CEH o OSCP",
+    "descripcion": "Curso completo de Hacking Ético con fundamentos, técnicas de penetración, análisis de vulnerabilidades y laboratorios prácticos. Incluye repositorio GitHub, documentos PDF, entornos virtuales de práctica y certificación interna FCEFA.",
     "gratis": false,
     "precio": "15 bs",
     "ContactoDistribuidor": "59170000000",
@@ -48,7 +33,7 @@
     "nombre": "Desarrollo Web Full Stack con React y Node.js",
     "imagen": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=600&fit=crop",
     "link": "https://github.com/braxxx3/fullstack-react-node-fcefa",
-    "descripcion": "Domina el desarrollo web moderno desde cero. Aprende HTML, CSS, JavaScript, React, Node.js, Express y MongoDB. Proyectos reales incluidos:\n\n• Aplicación de tareas (To-Do List)\n• Red social básica\n• API REST personalizada\n\n✅ Repositorio GitHub con código fuente\n✅ PDFs explicativos por módulo\n✅ Soporte vía WhatsApp para dudas técnicas\n\nIdeal para quienes quieren lanzar su primera aplicación o emprender en tecnología.",
+    "descripcion": "Aprende desarrollo web moderno desde cero con HTML, CSS, JavaScript, React, Node.js, Express y MongoDB. Incluye proyectos reales, repositorio GitHub, PDFs explicativos y soporte técnico.",
     "gratis": false,
     "precio": "10 bs",
     "ContactoDistribuidor": "59170000000",
