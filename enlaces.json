@@ -18,30 +18,6 @@
       "color_texto": "#FFFFFF"
     },
     {
-      "nombre": "HABILITADOS VERANO FCEFA 2026",
-      "url": "http://181.115.156.243/veranofcefa/verano.aspx",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "INFORMACIONES VERANO FCEFA 2026",
-      "url": "https://www.facebook.com/61557457092687/posts/122247219710248569/?rdid=0GldbEb5WJvVXdgc#",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "APROBADOS PRE-UNIVERSITARIO FCEFA 25-26",
-      "url": "https://www.fcefa.edu.bo/index.php?option=com_content&view=article&id=61:aprobados-preuniversitario-fcefa-2025-226&catid=11&Itemid=101",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
-    },
-    {
       "nombre": "SIA ORURO",
       "url": "http://fcefa.uto.edu.bo:8080/estudiante/",
       "font_size": 28,
