@@ -1,1 +1,77 @@
-
+{
+  "mensaje": "FELIZ AÑO NUEVO UNIVERSITARIOS",
+  "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
+  "imagenes": [
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766504091/WhatsApp_Image_2025-12-22_at_9.54.03_PM_vx7t5j.jpg",
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/recurso-principal-148195144_lochza.png",
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/booklovers-revista-de-libros-h1-1_qpsu8e.png",
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766582151/feliz-navidad-merry-christmas-in-spanish-text-for-card-for-your-design-christmas-tree-glass_toqnbu.jpg"
+  ],
+  "enlaces": [
+    {
+      "nombre": "BIBLIOTECA VIRTUAL eLIBROS FCEFA",
+      "url": "https://elibro.net/es/lc/fcefa/inicio",
+      "font_size": 32,
+      "altura": 70,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "eBIBLIOTECA libros",
+      "url": "https://ebiblioteca.org/lecturas/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Google libros",
+      "url": "https://books.google.com/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Cervantes libros",
+      "url": "https://www.cervantesvirtual.com/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "libros Europeos",
+      "url": "https://www.europeana.eu/es",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "WIKIsource",
+      "url": "https://es.wikisource.org/wiki/Portada",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Freeditorial libros",
+      "url": "https://freeditorial.com/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "epulibros",
+      "url": "https://www.epublibre.org/",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF"
+    }
+  ]
+}
