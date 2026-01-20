@@ -1,1 +1,22 @@
-
+{
+  "mensaje": "Bienvenido a la tienda de APKs",
+  "fondo_url": "https://example.com/fondo.jpg",
+  "imagenes": [
+    "https://example.com/img1.png",
+    "https://example.com/img2.png"
+  ],
+  "enlaces": [
+    {
+      "nombre": "Descargar Godot Engine",
+      "url": "https://downloads.godotengine.org/dl/4.3/godot-4.3-android-arm64v8a.apk",
+      "font_size": 24,
+      "altura": 50,
+      "color_fondo": "#4CAF50",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Sitio Web Oficial",
+      "url": "https://godotengine.org"
+    }
+  ]
+}
