@@ -1,34 +1,4 @@
 {
-  "mensaje": "📲 Descarga Aplicaciones Oficiales",
-  "fondo_url": "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/fondo_apk.jpg",
-  "imagenes": [
-    "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/godot_icon.png",
-    "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/android_icon.png"
-  ],
-  "enlaces": [
-    {
-      "nombre": "Godot Engine 4.3 (Android)",
-      "url": "https://downloads.tuxfamily.org/godotengine/4.3/Godot_v4.3-stable_android_arm64.apk",
-      "font_size": 22,
-      "altura": 50,
-      "color_fondo": "#4CAF50",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Sitio Web Oficial",
-      "url": "https://godotengine.org",
-      "font_size": 20,
-      "altura": 40,
-      "color_fondo": "#2196F3",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Documentación",
-      "url": "https://docs.godotengine.org",
-      "font_size": 20,
-      "altura": 40,
-      "color_fondo": "#FF9800",
-      "color_texto": "#FFFFFF"
-    }
-  ]
+  "nombre": "TikTok Platinum",
+  "url": "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/apks/TikTok%20v43.4.3%20(PlatinuM)_arm8.apk"
 }
