@@ -31,8 +31,8 @@
   },
   {
     "nombre": "CURSO DE EXCEL",
-    "imagen": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=600&fit=crop",
-    "link": "https://imgs.search.brave.com/etdw9DpK0VbIRDxdywXjR608Ojc5BDetyAX14hPSOGw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vdmFj/ZW4uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE4LzA3L2N1/cnNvLWRlLWV4Y2Vs/LmpwZw",
+    "imagen": "https://imgs.search.brave.com/etdw9DpK0VbIRDxdywXjR608Ojc5BDetyAX14hPSOGw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vdmFj/ZW4uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE4LzA3L2N1/cnNvLWRlLWV4Y2Vs/LmpwZw",
+    "link": "https://drive.google.com/drive/folders/1BRsj_H5WoG5DC66vGjehg8rmbociYHjv?usp=drive_link",
     "descripcion": "Aprende desarrollo web moderno desde cero con HTML, CSS, JavaScript, React, Node.js, Express y MongoDB. Incluye proyectos reales, repositorio GitHub, PDFs explicativos y soporte técnico.",
     "gratis": false,
     "precio": "10 bs",
