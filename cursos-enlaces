@@ -1,5 +1,34 @@
 [
   {
+    "nombre": "CURSO COMPLETO DE MICROSOFT WORD",
+    "imagen": "https://images.unsplash.com/photo-1584697964154-3c6c6f8d3b3c?w=800&h=600&fit=crop",
+    "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link",
+    "descripcion": "Curso gratuito de Microsoft Word desde nivel básico hasta intermedio. Aprende a crear documentos profesionales, usar formatos avanzados, tablas, encabezados, índices, cartas, trabajos académicos y más. Ideal para estudiantes, docentes y público en general.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO DE MEMORIA ÁGIL Y CONCENTRACIÓN",
+    "imagen": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&h=600&fit=crop",
+    "link": "https://drive.google.com/drive/folders/1XhLD-nJcyxZ5UtAUxLVHTLqOH12X9tS5?usp=drive_link",
+    "descripcion": "Curso gratuito enfocado en mejorar la memoria, concentración y agilidad mental. Incluye ejercicios prácticos, técnicas de memorización, entrenamiento cognitivo y métodos para estudiar y aprender más rápido.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "COLECCIÓN COMPLETA DE CONDORITO",
+    "imagen": "https://images.unsplash.com/photo-1601645191163-3fc5d5d3b5c9?w=800&h=600&fit=crop",
+    "link": "https://drive.google.com/drive/folders/10ptJPmyPA8SHwizMWh6uxqQXjgzVsAj0?usp=sharing",
+    "descripcion": "Colección gratuita de revistas clásicas de Condorito en formato digital. Humor latinoamericano, entretenimiento sano y material histórico ideal para todas las edades.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  }{
     "nombre": "CURSO DE GUITARRA PARA PRINCIPIANTES",
     "imagen": "https://imgs.search.brave.com/GfSuarLV-hMnxaSZXYYjeFsks_cZrbSoxwoMB8hUe3o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lc2N1/ZWxhbXVzaWNhbG9u/bGluZS5jb20vd3At/Y29udGVudC91cGxv/YWRzL21lam9yZXMt/Y3Vyc29zLWRlLWd1/aXRhcnJhLW9ubGlu/ZV8uanBn",
     "link": "https://1024terabox.com/s/1vdJZApI7PUXLSAwUx-7eug",
@@ -8,16 +37,6 @@
     "precio": "5 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "9237"
-  },
-  {
-    "nombre": "CURSO DE BATERISTA ROCKSTAR",
-    "imagen": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1768747516/CURSO_DE_BATERISTA_dpxmst.jpg",
-    "link": "https://1024terabox.com/s/1FY9b8MpJRY4idMEZ33HIOg",
-    "descripcion": "Curso práctico de batería enfocado en desarrollar una base rítmica sólida desde los fundamentos hasta la aplicación real en el instrumento. Incluye técnica de manos y pies, rudimentos, ritmos básicos y avanzados, fills, coordinación, ejercicios en video y material PDF. Ideal para principiantes e intermedios.",
-    "gratis": true,
-    "precio": "0.00",
-    "ContactoDistribuidor": "",
-    "codigo_autorizacion": ""
   },
   {
     "nombre": "Curso Exclusivo de Hacking Ético",
