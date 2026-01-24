@@ -1,77 +1,67 @@
 {
-  "mensaje": "LA SECCION DE REPOSITORIOS",
-  "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
-  "imagenes": [
-    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766504091/WhatsApp_Image_2025-12-22_at_9.54.03_PM_vx7t5j.jpg",
-    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
-    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/recurso-principal-148195144_lochza.png",
-    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/booklovers-revista-de-libros-h1-1_qpsu8e.png",
-    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766582151/feliz-navidad-merry-christmas-in-spanish-text-for-card-for-your-design-christmas-tree-glass_toqnbu.jpg"
-  ],
-  "enlaces": [
+  "mensaje": "LA SECCIÓN DE REPOSITORIOS",
+  "fondo_url": "https://imgs.search.brave.com/Rhyav35XDoZ9TBisYo_IxR0xDO0sDIYqmWryTTZAayg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaXNy/dXB0aXZvby5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MTAvTG9zLU1lam9y/ZXMtRm9uZG9zLWRl/LVBhbnRhbGxhLVZl/cmRlcy0yLTEwMjR4/NjQwLmpwZw",
+  "categorias": [
+
     {
-      "nombre": "BIBLIOTECA VIRTUAL eLIBROS FCEFA",
-      "url": "https://elibro.net/es/lc/fcefa/inicio",
-      "font_size": 32,
-      "altura": 70,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
+      "categoria": "🛠️ Herramientas Online",
+      "color_categoria": "#1565C0",
+      "enlaces": [
+        { "nombre": "ConvertDrop - Convertidor", "url": "https://www.convertdrop.com/converter", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" },
+        { "nombre": "ConvertDrop - PDF", "url": "https://www.convertdrop.com/pdf", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" },
+        { "nombre": "ConvertDrop - Generador", "url": "https://www.convertdrop.com/generator", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" },
+        { "nombre": "ConvertDrop - Redimensionar", "url": "https://www.convertdrop.com/resizer", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" },
+        { "nombre": "ConvertDrop - Video", "url": "https://www.convertdrop.com/video", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" },
+        { "nombre": "ConvertDrop - Texto", "url": "https://www.convertdrop.com/text", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" },
+        { "nombre": "JustQuickTools", "url": "https://justquicktools.com/pdf-tools", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" }
+      ]
     },
+
     {
-      "nombre": "eBIBLIOTECA libros",
-      "url": "https://ebiblioteca.org/lecturas/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
+      "categoria": "📚 Educación y Aprendizaje",
+      "color_categoria": "#2E7D32",
+      "enlaces": [
+        { "nombre": "Coursera", "url": "https://www.coursera.org", "font_size": 26, "altura": 50, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" },
+        { "nombre": "SkillShop Google", "url": "https://skillshop.exceedlms.com", "font_size": 26, "altura": 50, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" },
+        { "nombre": "Justin Guitar", "url": "https://www.justinguitar.com", "font_size": 26, "altura": 50, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" },
+        { "nombre": "Study Pool", "url": "https://www.studypool.com", "font_size": 26, "altura": 50, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" }
+      ]
     },
+
     {
-      "nombre": "Google libros",
-      "url": "https://books.google.com/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
+      "categoria": "🎨 Diseño e Imágenes",
+      "color_categoria": "#6A1B9A",
+      "enlaces": [
+        { "nombre": "Pexels", "url": "https://www.pexels.com", "font_size": 26, "altura": 50, "color_fondo": "#8E24AA", "color_texto": "#FFFFFF" },
+        { "nombre": "Pixabay", "url": "https://pixabay.com", "font_size": 26, "altura": 50, "color_fondo": "#8E24AA", "color_texto": "#FFFFFF" },
+        { "nombre": "Freepik", "url": "https://www.freepik.com", "font_size": 26, "altura": 50, "color_fondo": "#8E24AA", "color_texto": "#FFFFFF" },
+        { "nombre": "Pixlr Editor", "url": "https://pixlr.com", "font_size": 26, "altura": 50, "color_fondo": "#8E24AA", "color_texto": "#FFFFFF" },
+        { "nombre": "Cleanup Pictures", "url": "https://cleanup.picture", "font_size": 26, "altura": 50, "color_fondo": "#8E24AA", "color_texto": "#FFFFFF" },
+        { "nombre": "Remove BG", "url": "https://www.remove.bg", "font_size": 26, "altura": 50, "color_fondo": "#8E24AA", "color_texto": "#FFFFFF" }
+      ]
     },
+
     {
-      "nombre": "Cervantes libros",
-      "url": "https://www.cervantesvirtual.com/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
+      "categoria": "🎬 Entretenimiento",
+      "color_categoria": "#C62828",
+      "enlaces": [
+        { "nombre": "YouTube", "url": "https://www.youtube.com", "font_size": 26, "altura": 50, "color_fondo": "#D32F2F", "color_texto": "#FFFFFF" },
+        { "nombre": "LookMovie", "url": "https://www.lookmovie2.to", "font_size": 26, "altura": 50, "color_fondo": "#D32F2F", "color_texto": "#FFFFFF" },
+        { "nombre": "Animelon", "url": "https://animelon.com", "font_size": 26, "altura": 50, "color_fondo": "#D32F2F", "color_texto": "#FFFFFF" },
+        { "nombre": "EngVideo", "url": "https://engvideo.net", "font_size": 26, "altura": 50, "color_fondo": "#D32F2F", "color_texto": "#FFFFFF" }
+      ]
     },
+
     {
-      "nombre": "libros Europeos",
-      "url": "https://www.europeana.eu/es",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "WIKIsource",
-      "url": "https://es.wikisource.org/wiki/Portada",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Freeditorial libros",
-      "url": "https://freeditorial.com/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "epulibros",
-      "url": "https://www.epublibre.org/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#C62828",
-      "color_texto": "#FFFFFF"
+      "categoria": "🤖 IA y Utilidades",
+      "color_categoria": "#455A64",
+      "enlaces": [
+        { "nombre": "Wolfram Alpha", "url": "https://www.wolframalpha.com", "font_size": 26, "altura": 50, "color_fondo": "#546E7A", "color_texto": "#FFFFFF" },
+        { "nombre": "Cleverbot", "url": "https://www.cleverbot.com", "font_size": 26, "altura": 50, "color_fondo": "#546E7A", "color_texto": "#FFFFFF" },
+        { "nombre": "AutoDraw", "url": "https://www.autodraw.com", "font_size": 26, "altura": 50, "color_fondo": "#546E7A", "color_texto": "#FFFFFF" },
+        { "nombre": "DALL·E", "url": "https://openai.com/dall-e", "font_size": 26, "altura": 50, "color_fondo": "#546E7A", "color_texto": "#FFFFFF" }
+      ]
     }
+
   ]
 }
