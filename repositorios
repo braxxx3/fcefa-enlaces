@@ -2,12 +2,12 @@
   "mensaje": "HERRAMIENTAS Y PAGINAS UTILES DE INTERNET",
   "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
   "enlaces": [
-    { "nombre": "ConvertDrop - Converter", "url": "https://www.convertdrop.com/converter", "font_size": 26, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
-    { "nombre": "ConvertDrop - PDF Tools", "url": "https://www.convertdrop.com/pdf", "font_size": 26, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
-    { "nombre": "ConvertDrop - Generator", "url": "https://www.convertdrop.com/generator", "font_size": 26, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
-    { "nombre": "ConvertDrop - Image Resizer", "url": "https://www.convertdrop.com/resizer", "font_size": 26, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
-    { "nombre": "ConvertDrop - Video Tools", "url": "https://www.convertdrop.com/video", "font_size": 26, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
-    { "nombre": "ConvertDrop - Text Tools", "url": "https://www.convertdrop.com/text", "font_size": 26, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "ConvertDrop - Converter", "url": "https://www.convertdrop.com/converter", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "ConvertDrop - PDF Tools", "url": "https://www.convertdrop.com/pdf", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "ConvertDrop - Generator", "url": "https://www.convertdrop.com/generator", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "ConvertDrop - Image Resizer", "url": "https://www.convertdrop.com/resizer", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "ConvertDrop - Video Tools", "url": "https://www.convertdrop.com/video", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "ConvertDrop - Text Tools", "url": "https://www.convertdrop.com/text", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
 
     { "nombre": "Test de Velocidad de Internet", "url": "https://justquicktools.com/internet-speed-test", "font_size": 26, "altura": 55, "color_fondo": "#2E7D32", "color_texto": "#FFFFFF" },
     { "nombre": "Generador de QR", "url": "https://justquicktools.com/qr-code-generator", "font_size": 26, "altura": 55, "color_fondo": "#2E7D32", "color_texto": "#FFFFFF" },
