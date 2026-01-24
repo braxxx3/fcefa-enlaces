@@ -23,80 +23,48 @@
           "color_texto": "#FFFFFF"
         },
         {
-          "nombre": "Google Académico",
-          "url": "https://scholar.google.com",
+          "nombre": "Google libros",
+          "url": "https://books.google.com/",
           "font_size": 28,
           "altura": 55,
           "color_fondo": "#C62828",
           "color_texto": "#FFFFFF"
         },
         {
-          "nombre": "ResearchGate",
-          "url": "https://www.researchgate.net",
+          "nombre": "Cervantes libros",
+          "url": "https://www.cervantesvirtual.com/",
           "font_size": 28,
           "altura": 55,
           "color_fondo": "#C62828",
           "color_texto": "#FFFFFF"
         },
         {
-          "nombre": "Sci-Hub",
-          "url": "https://sci-hub.se",
+          "nombre": "libros Europeos",
+          "url": "https://www.europeana.eu/es",
           "font_size": 28,
           "altura": 55,
           "color_fondo": "#C62828",
           "color_texto": "#FFFFFF"
         },
         {
-          "nombre": "DOAJ - Directorio de Acceso Abierto",
-          "url": "https://doaj.org",
-          "font_size": 26,
-          "altura": 50,
-          "color_fondo": "#C62828",
-          "color_texto": "#FFFFFF"
-        },
-        {
-          "nombre": "Redalyc",
-          "url": "https://www.redalyc.org",
+          "nombre": "WIKIsource",
+          "url": "https://es.wikisource.org/wiki/Portada",
           "font_size": 28,
           "altura": 55,
           "color_fondo": "#C62828",
           "color_texto": "#FFFFFF"
         },
         {
-          "nombre": "Scielo",
-          "url": "https://scielo.org",
+          "nombre": "Freeditorial libros",
+          "url": "https://freeditorial.com/",
           "font_size": 28,
           "altura": 55,
           "color_fondo": "#C62828",
           "color_texto": "#FFFFFF"
         },
         {
-          "nombre": "Latindex",
-          "url": "https://www.latindex.org",
-          "font_size": 28,
-          "altura": 55,
-          "color_fondo": "#C62828",
-          "color_texto": "#FFFFFF"
-        },
-        {
-          "nombre": "Dialnet",
-          "url": "https://dialnet.unirioja.es",
-          "font_size": 28,
-          "altura": 55,
-          "color_fondo": "#C62828",
-          "color_texto": "#FFFFFF"
-        },
-        {
-          "nombre": "JSTOR",
-          "url": "https://www.jstor.org",
-          "font_size": 28,
-          "altura": 55,
-          "color_fondo": "#C62828",
-          "color_texto": "#FFFFFF"
-        },
-        {
-          "nombre": "ScienceDirect",
-          "url": "https://www.sciencedirect.com",
+          "nombre": "epulibros",
+          "url": "https://www.epublibre.org/",
           "font_size": 28,
           "altura": 55,
           "color_fondo": "#C62828",
