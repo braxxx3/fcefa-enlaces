@@ -2,7 +2,6 @@
   "mensaje": "LA SECCIÓN DE REPOSITORIOS",
   "fondo_url": "https://imgs.search.brave.com/Rhyav35XDoZ9TBisYo_IxR0xDO0sDIYqmWryTTZAayg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaXNy/dXB0aXZvby5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MTAvTG9zLU1lam9y/ZXMtRm9uZG9zLWRl/LVBhbnRhbGxhLVZl/cmRlcy0yLTEwMjR4/NjQwLmpwZw",
   "categorias": [
-
     {
       "categoria": "🛠️ Herramientas Online",
       "color_categoria": "#1565C0",
@@ -16,7 +15,6 @@
         { "nombre": "JustQuickTools", "url": "https://justquicktools.com/pdf-tools", "font_size": 26, "altura": 50, "color_fondo": "#1976D2", "color_texto": "#FFFFFF" }
       ]
     },
-
     {
       "categoria": "📚 Educación y Aprendizaje",
       "color_categoria": "#2E7D32",
@@ -27,7 +25,6 @@
         { "nombre": "Study Pool", "url": "https://www.studypool.com", "font_size": 26, "altura": 50, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" }
       ]
     },
-
     {
       "categoria": "🎨 Diseño e Imágenes",
       "color_categoria": "#6A1B9A",
@@ -40,7 +37,6 @@
         { "nombre": "Remove BG", "url": "https://www.remove.bg", "font_size": 26, "altura": 50, "color_fondo": "#8E24AA", "color_texto": "#FFFFFF" }
       ]
     },
-
     {
       "categoria": "🎬 Entretenimiento",
       "color_categoria": "#C62828",
@@ -51,7 +47,6 @@
         { "nombre": "EngVideo", "url": "https://engvideo.net", "font_size": 26, "altura": 50, "color_fondo": "#D32F2F", "color_texto": "#FFFFFF" }
       ]
     },
-
     {
       "categoria": "🤖 IA y Utilidades",
       "color_categoria": "#455A64",
@@ -62,6 +57,5 @@
         { "nombre": "DALL·E", "url": "https://openai.com/dall-e", "font_size": 26, "altura": 50, "color_fondo": "#546E7A", "color_texto": "#FFFFFF" }
       ]
     }
-
   ]
 }
