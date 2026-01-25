@@ -1,8 +1,8 @@
 {
-  "mensaje": " Descarga Aplicaciones Oficiales",
+  "mensaje": "Descarga Aplicaciones Oficiales",
   "fondo_url": "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/fondo_apk.jpg",
   "imagenes": [
-    "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/godot_icon.png",
+    "https://imgs.search.brave.com/TuJhl5d1ZDSenwbPAX1sH4OvrXv1kwq8f4rJ0VKnG-M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbXMu/amliZWNkbi5jb20v/cHJvZC9naXRodWJp/bmMtY2FyZWVycy9h/c3NldHMvTFAtU0tV/LUQ0LTEtSU1HLWVu/LXVzLTE2OTk0MjUx/NDA5OTAuanBn",
     "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/android_icon.png"
   ],
   "enlaces": [
@@ -31,11 +31,44 @@
       "color_texto": "#FFFFFF"
     },
     {
-      "nombre": "Documentación",
+      "nombre": "Documentación Godot",
       "url": "https://docs.godotengine.org",
       "font_size": 20,
       "altura": 40,
       "color_fondo": "#FF9800",
+      "color_texto": "#FFFFFF"
+    },
+
+    {
+      "nombre": "Aplicación Android Premium 1",
+      "url": "https://drive.google.com/uc?export=download&id=18LwH2Jaw0n3CyeS2POuJ62OUIwjUTPiy",
+      "font_size": 20,
+      "altura": 45,
+      "color_fondo": "#9C27B0",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Aplicación Android Premium 2",
+      "url": "https://drive.google.com/uc?export=download&id=1pZfcTIS36Pp8jFbuyCCFUW0f9IG9GcII",
+      "font_size": 20,
+      "altura": 45,
+      "color_fondo": "#673AB7",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Aplicación Android Premium 3",
+      "url": "https://drive.google.com/uc?export=download&id=1_gCf_VmpiwKagifg3nQVWazzLq9_w4RN",
+      "font_size": 20,
+      "altura": 45,
+      "color_fondo": "#3F51B5",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "Aplicación Android Extra",
+      "url": "https://drive.google.com/uc?export=download&id=1gQ6O0_9SJB93BsbPQX6Yp87vTw94WUOE",
+      "font_size": 20,
+      "altura": 45,
+      "color_fondo": "#009688",
       "color_texto": "#FFFFFF"
     }
   ]
