@@ -49,7 +49,7 @@
     { "nombre": "FNI DRAGON", "url": "https://registrofni.uto.edu.bo/", "font_size": 28, "altura": 40, "color_fondo": "#6A1B9A", "color_texto": "#111111" },
     { "nombre": "CLAVES FCEFA.", "url": "http://claves.fcefa.edu.bo/", "font_size": 28, "altura": 40, "color_fondo": "#C62828", "color_texto": "#FFFFFF" },
     { "nombre": "SIA CHALLAPATA", "url": "http://181.115.200.60:8080/sia_fcefaech/", "font_size": 28, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" },
-    { "nombre": "SIA SABAYA", "url": "http://fcefa.uto.edu.bo:8080/economia/", "font_size": 28 "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" },
+    { "nombre": "SIA SABAYA", "url": "http://fcefa.uto.edu.bo:8080/economia/", "font_size": 28, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" },
     { "nombre": "SIA CARACOLLO", "url": "http://fcefa.uto.edu.bo:8080/economia/", "font_size": 28, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" },
     { "nombre": "SIA NEGOCIOS INTERNACIONALES", "url": "http://fcefa.uto.edu.bo:8080/economia/", "font_size": 28, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" }
   ]
