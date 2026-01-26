@@ -30,8 +30,8 @@
       "url": "https://www.fcefa.edu.bo/index.php?view=featured",
       "font_size": 28,
       "altura": 55,
-      "color_fondo": "#4285F4",  // azul Google
-      "color_texto": "#111111"   // texto casi negro
+      "color_fondo": "#4285F4",
+      "color_texto": "#111111"
     },
     {
       "nombre": "AYUDANOS A MEJORAR DONACIONES",
