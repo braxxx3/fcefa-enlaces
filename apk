@@ -1,126 +1,46 @@
 {
-  "mensaje": "Descarga Aplicaciones MODIFICADAS",
-  "fondo_url": "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/fondo_apk.jpg",
+  "mensaje": "APPS PREMIUM",
+  "fondo_url": "https://imgs.search.brave.com/h_4wiXGt-n6_vjz1y4Sq78Py2wHdrC6sRUhvy6XFftw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/MDcyNTI2NTAzNTUt/ZjdmZDA0NjBjY2Ri/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZpeGxp/Yj1yYi00LjEuMCZp/eGlkPU0zd3hNakEz/ZkRCOE1IeHpaV0Z5/WTJoOE0zeDhZVzVr/Y205cFpDVXlNSEJv/YjI1bGZHVnVmREI4/ZkRCOGZId3c",
   "imagenes": [
-    "https://imgs.search.brave.com/TuJhl5d1ZDSenwbPAX1sH4OvrXv1kwq8f4rJ0VKnG-M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbXMu/amliZWNkbi5jb20v/cHJvZC9naXRodWJp/bmMtY2FyZWVycy9h/c3NldHMvTFAtU0tV/LUQ0LTEtSU1HLWVu/LXVzLTE2OTk0MjUx/NDA5OTAuanBn",
-    "https://imgs.search.brave.com/C8S-wn128KjOZx4l7dQEqktv8MjulZLgc68YeeQJ8cI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bW9ja29mdW4uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA1L3Rpa3Rvay1s/b2dvLXBuZy10cmFu/c3BhcmVudC1iYWNr/Z3JvdW5kLmpwZw",
-    "https://imgs.search.brave.com/KB1ULPgz7JgJkn0OqWcHtXqjn3v7NnILjkfZwXHNBoU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC84YWV2cGh2/Z2V3dDgvMlphbXhv/N2E3RjlLOWpzVEFs/MkVHQS9iY2UxZjA0/YTQwNTM2ZTg5ZWY1/NDNjYjMxMWYyOTY4/Yi9naXRodWItY29w/aWxvdC1jbGkucG5n"
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766504091/WhatsApp_Image_2025-12-22_at_9.54.03_PM_vx7t5j.jpg",
+    "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png"
   ],
   "enlaces": [
-
     {
-      "nombre": "TikTok Platinum v43.4.3",
-      "url": "https://drive.google.com/uc?export=download&id=1Tb8ZSeX5ZZFjb_L1vdcm9Q4VRFy8CJei",
-      "font_size": 24,
-      "altura": 50,
-      "color_fondo": "#FF0055",
-      "color_texto": "#FFFFFF"
+      "nombre": "AnimoHub 2.3.6",
+      "url": "https://drive.google.com/file/d/18LwH2Jaw0n3CyeS2POuJ62OUIwjUTPiy/view?usp=sharing",
+      "font_size": 32,
+      "altura": 70,
+      "color_fondo": "#1976D2",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/app-icon-generic-blue_qw3k9m.png"
     },
     {
-      "nombre": "Sitio Web Oficial",
-      "url": "https://drive.google.com/uc?export=download&id=1Tb8ZSeX5ZZFjb_L1vdcm9Q4VRFy8CJei",
-      "font_size": 20,
-      "altura": 40,
-      "color_fondo": "#2196F3",
-      "color_texto": "#FFFFFF"
+      "nombre": "Ludo Club Fun Dice Game 2.6.5 (Mod)",
+      "url": "https://drive.google.com/file/d/1pZfcTIS36Pp8jFbuyCCFUW0f9IG9GcII/view?usp=sharing",
+      "font_size": 30,
+      "altura": 70,
+      "color_fondo": "#1976D2",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/ludo-game-icon_y2n4xp.png"
     },
     {
-      "nombre": "Documentación Godot",
-      "url": "https://docs.godotengine.org",
-      "font_size": 20,
-      "altura": 40,
-      "color_fondo": "#FF9800",
-      "color_texto": "#FFFFFF"
-    },
-
-    {
-      "nombre": "Aplicación Android Premium 1",
-      "url": "https://drive.google.com/uc?export=download&id=18LwH2Jaw0n3CyeS2POuJ62OUIwjUTPiy",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#9C27B0",
-      "color_texto": "#FFFFFF"
+      "nombre": "Perplexity v2.52.0 (Premium)",
+      "url": "https://drive.google.com/file/d/1_gCf_VmpiwKagifg3nQVWazzLq9_w4RN/view?usp=sharing",
+      "font_size": 32,
+      "altura": 70,
+      "color_fondo": "#1976D2",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/perplexity-ai-icon_r8m3kl.png"
     },
     {
-      "nombre": "Aplicación Android Premium 2",
-      "url": "https://drive.google.com/uc?export=download&id=1pZfcTIS36Pp8jFbuyCCFUW0f9IG9GcII",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#673AB7",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Aplicación Android Premium 3",
-      "url": "https://drive.google.com/uc?export=download&id=1_gCf_VmpiwKagifg3nQVWazzLq9_w4RN",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#3F51B5",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Aplicación Android Extra",
-      "url": "https://drive.google.com/uc?export=download&id=1gQ6O0_9SJB93BsbPQX6Yp87vTw94WUOE",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#009688",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "TikTok Platinum v43.4.3",
-      "url": "https://drive.google.com/uc?export=download&id=1Tb8ZSeX5ZZFjb_L1vdcm9Q4VRFy8CJei",
-      "font_size": 24,
-      "altura": 50,
-      "color_fondo": "#FF0055",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Sitio Web Oficial",
-      "url": "https://drive.google.com/uc?export=download&id=1Tb8ZSeX5ZZFjb_L1vdcm9Q4VRFy8CJei",
-      "font_size": 20,
-      "altura": 40,
-      "color_fondo": "#2196F3",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Documentación Godot",
-      "url": "https://docs.godotengine.org",
-      "font_size": 20,
-      "altura": 40,
-      "color_fondo": "#FF9800",
-      "color_texto": "#FFFFFF"
-    },
-
-    {
-      "nombre": "Aplicación Android Premium 1",
-      "url": "https://drive.google.com/uc?export=download&id=18LwH2Jaw0n3CyeS2POuJ62OUIwjUTPiy",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#9C27B0",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Aplicación Android Premium 2",
-      "url": "https://drive.google.com/uc?export=download&id=1pZfcTIS36Pp8jFbuyCCFUW0f9IG9GcII",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#673AB7",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Aplicación Android Premium 3",
-      "url": "https://drive.google.com/uc?export=download&id=1_gCf_VmpiwKagifg3nQVWazzLq9_w4RN",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#3F51B5",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "Aplicación Android Extra",
-      "url": "https://drive.google.com/uc?export=download&id=1gQ6O0_9SJB93BsbPQX6Yp87vTw94WUOE",
-      "font_size": 20,
-      "altura": 45,
-      "color_fondo": "#009688",
-      "color_texto": "#FFFFFF"
+      "nombre": "Watermark Maker v5.3.0-4 b534 (Premium)",
+      "url": "https://drive.google.com/file/d/1gQ6O0_9SJB93BsbPQX6Yp87vTw94WUOE/view?usp=sharing",
+      "font_size": 30,
+      "altura": 70,
+      "color_fondo": "#1976D2",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/watermark-app-icon_t5z9qr.png"
     }
   ]
 }
