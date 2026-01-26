@@ -41,17 +41,4 @@
     { "nombre": "Skillshop Google", "url": "https://skillshop.exceedlms.com/student/catalog", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
     { "nombre": "Fiverr", "url": "https://www.fiverr.com", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" }
   ],
-  "enlaces_universidades": [
-    { "nombre": "UNIVERSIDAD SAVIO DOMINGO", "url": "https://www.upds.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#0277BD", "color_texto": "#FFFFFF" },
-    { "nombre": "UNIVERSIDAD UTO", "url": "https://www.uto.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" },
-    { "nombre": "UNIVERSIDAD UDABOL", "url": "https://www.udabol.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#D32F2F", "color_texto": "#FFFFFF" },
-    { "nombre": "UNIVERSIDAD UPAL", "url": "https://www.upal.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#7B1FA2", "color_texto": "#FFFFFF" },
-    { "nombre": "UNIVERSIDAD UNIOR", "url": "https://www.unior.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#FF8F00", "color_texto": "#FFFFFF" },
-    { "nombre": "F.N.I. DRAGON", "url": "https://registrofni.uto.edu.bo/", "font_size": 28, "altura": 40, "color_fondo": "#4285F4", "color_texto": "#111111" },
-    { "nombre": "CLAVES F.C.E.F.A.", "url": "http://claves.fcefa.edu.bo/", "font_size": 28, "altura": 40, "color_fondo": "#C62828", "color_texto": "#FFFFFF" },
-    { "nombre": "SIA CHALLAPATA", "url": "http://181.115.200.60:8080/sia_fcefaech/", "font_size": 26, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" },
-    { "nombre": "SIA SABAYA", "url": "http://fcefa.uto.edu.bo:8080/economia/", "font_size": 26, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" },
-    { "nombre": "SIA CARACOLLO", "url": "http://fcefa.uto.edu.bo:8080/economia/", "font_size": 26, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" },
-    { "nombre": "SIA NEGOCIOS INTERNACIONALES", "url": "http://fcefa.uto.edu.bo:8080/economia/", "font_size": 26, "altura": 40, "color_fondo": "#AD1457", "color_texto": "#FFFFFF" }
-  ]
 }
