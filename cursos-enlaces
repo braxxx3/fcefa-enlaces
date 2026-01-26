@@ -1,7 +1,7 @@
 [
   {
-    "nombre": "CURSO COMPLETO DE MICROSOFT WORD",
-    "imagen": "https://imgs.search.brave.com/x6OodBIgQbDP89K7sYkjpR3t7jJw6RrP4zcx-ccvZeE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMud29uZGVyc2hh/cmUuY29tL3BkZmVs/ZW1lbnQvd29yZC9y/ZXNpemUtcGljdHVy/ZS1pbi13b3JkLXdp/dGhvdXQtbW92aW5n/LXRleHQtMi5qcGc",
+    "nombre": "CURSO COMPLETO DE MICROSOFT WORD (Básico-Intermedio)",
+    "imagen": "https://imgs.search.brave.com/x6OodBIgQbDP89K7sYkjpR3t7jJw6RrP4zcx-ccvZeE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFnZXMud29uZGVyc2hhcmUuY29tL3BkZmVsZW1lbnQvd29yZC9yZXNpemUtcGljdHVyZS1pbi13b3JkLXdpdGhvdXQtbW92aW5nLXRleHQtMi5qcGc",
     "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link",
     "descripcion": "Curso gratuito de Microsoft Word desde nivel básico hasta intermedio. Aprende a crear documentos profesionales, usar formatos avanzados, tablas, encabezados, índices, cartas, trabajos académicos y más. Ideal para estudiantes, docentes y público en general.",
     "gratis": true,
@@ -11,7 +11,7 @@
   },
   {
     "nombre": "CURSO POWER POINT",
-    "imagen": "https://imgs.search.brave.com/djb13ObYffKgOCR5HxDxw7FM45Ew2sw6PHTL3kBh_lQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d2lraWhvdy5jb20v/aW1hZ2VzL3RodW1i/LzEvMTAvQWRkLUlt/YWdlcy10by1hLVBv/d2VyUG9pbnQtUHJl/c2VudGF0aW9uLVN0/ZXAtMy1WZXJzaW9u/LTQuanBnL3Y0LTQ2/MHB4LUFkZC1JbWFn/ZXMtdG8tYS1Qb3dl/clBvaW50LVByZXNl/bnRhdGlvbi1TdGVw/LTMtVmVyc2lvbi00/LmpwZw",
+    "imagen": "https://imgs.search.brave.com/djb13ObYffKgOCR5HxDxw7FM45Ew2sw6PHTL3kBh_lQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cud2lraWhvdy5jb20vaW1hZ2VzL3RodW1iLzEvMTAvQWRkLUltYWdlcy10by1hLVBvd2VyUG9pbnQtUHJlc2VudGF0aW9uLVN0ZXAtMy1WZXJzaW9uLTQuanBnL3Y0LTQ2MHB4LUFkZC1JbWFnZXMtdG8tYS1Qb3dlclBvaW50LVByZXNlbnRhdGlvbi1TdGVwLTMtVmVyc2lvbi00LmpwZw",
     "link": "https://drive.google.com/drive/folders/1YkkzvCq-gFNuQ5i5wHilVLnDEPXhlTbc?usp=sharing",
     "descripcion": "Aprende a crear presentaciones dinámicas y profesionales con Microsoft PowerPoint. Incluye diseño de diapositivas, animaciones, transiciones y herramientas colaborativas.",
     "gratis": true,
@@ -21,7 +21,7 @@
   },
   {
     "nombre": "CURSO PROYECT",
-    "imagen": "https://imgs.search.brave.com/D3tttvWvaMlcyvVe-jdJxuqwS2NLcMzDzyMqWW3QW_o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzI4LzIvbWljcm9z/b2Z0LXByb2plY3Qt/bXNwLWxvZ28tcG5n/X3NlZWtsb2dvLTI4/MzEyOS5wbmc",
+    "imagen": "https://imgs.search.brave.com/D3tttvWvaMlcyvVe-jdJxuqwS2NLcMzDzyMqWW3QW_o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFnZXMuc2Vla2xvZ28uY29tL2xvZ28tcG5nLzI4LzIvbWljcm9zb2Z0LXByb2plY3QtbXNwLWxvZ28tcG5nX3NlZWtsb2dvLTI4MzEyOS5wbmc",
     "link": "https://drive.google.com/drive/folders/1hn-CjPmwWsnS4ZBjYrl3Ji2zFXxiVnMw?usp=sharing",
     "descripcion": "Curso esencial de Microsoft Project para la gestión eficiente de proyectos. Aprende a planificar tareas, asignar recursos, gestionar cronogramas y generar diagramas de Gantt.",
     "gratis": true,
@@ -31,7 +31,7 @@
   },
   {
     "nombre": "CURSO INGLES MUNDO MAGICO DISNEY",
-    "imagen": "https://imgs.search.brave.com/Z6q5cvJaW-r88dLUFRoEYraK7pXk6qFHTfrbmMV4fGc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTIx/MTEwMzMwL2VzL2Zv/dG8vcGVyc29uLXdl/YXJpbmctbWlja2V5/LW1vdXNlLWNvc3R1/bWUtYXQtZGlzbmV5/bGFuZC10aGVtZS1w/YXJrLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1KeWpmem9k/VnV3M0lGVUZkQ05h/VUVUYno0dGxUdVRV/TEhheVp1a29CQWcw/PQ",
+    "imagen": "https://imgs.search.brave.com/Z6q5cvJaW-r88dLUFRoEYraK7pXk6qFHTfrbmMV4fGc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvNTIxMTEwMzMwL2VzL2ZvdG8vcGVyc29uLXdlYXJpbmctbWlja2V5LW1vdXNlLWNvc3R1bWUtYXQtZGlzbmV5bGFuZC10aGVtZS1wYXJrLmpwZz9zPTYxMng2MTImdz0wJms9MjAmYz1KeWpmem9kVnV3M0lGVUZkQ05hVUVUYno0dGxUdVRVTEhheVp1a29CQWcwPQ",
     "link": "https://drive.google.com/drive/folders/1-QORzoxO8oYlkD2wu0ExRezwEb6yJzxv?usp=sharing",
     "descripcion": "Curso de inglés basado en el universo mágico de Disney. Ideal para niños y principiantes que desean aprender vocabulario, pronunciación y gramática básica de forma divertida.",
     "gratis": true,
@@ -41,7 +41,7 @@
   },
   {
     "nombre": "CURSOS DE INGLES DOMINA VERBOS",
-    "imagen": "https://imgs.search.brave.com/EKHicaOVciqBsaU2ljk896LEjh05dakUUG50v_sSAl0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxQkkyY0t4RnlM/LmpwZw",
+    "imagen": "https://imgs.search.brave.com/EKHicaOVciqBsaU2ljk896LEjh05dakUUG50v_sSAl0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzcxQkkyY0t4RnlMLmpwZw",
     "link": "https://drive.google.com/drive/folders/1pqyzOecH8nw8_AWt3HLwfKCJSEaMCK-K?usp=sharing",
     "descripcion": "Domina los tiempos verbales en inglés con este curso completo. Incluye presente, pasado, futuro, condicional, perfectos y continuos, con ejercicios prácticos.",
     "gratis": true,
@@ -51,7 +51,7 @@
   },
   {
     "nombre": "PORTADAS EDITABLES",
-    "imagen": "https://imgs.search.brave.com/9D1Huwa451FNivKzNbICQFjiIHe9XhJn-HrDzMUVoO0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtd2l4bXAtZWQz/MGE4NmI4YzRjYTg4/Nzc3MzU5NGMyLndp/eG1wLmNvbS9mL2Vm/NDhkNDNmLWQwYzkt/NDQxZS1hNjI1LWNj/ZjA2NjIwNzVjZi9k/OTNxYXduLTM4Mzli/YWFjLTZmZDAtNGIw/Yy05ZmU0LTdmYTQy/NjU0MmZkMS5wbmcv/djEvZmlsbC93XzMw/MCxoXzE5OCxxXzcw/LHN0cnAvX3BvcnRh/ZGFzX3BzZF9ieV9p/bG92ZW1lcmlnaHRf/ZDkzcWF3bi0yMDBo/LmpwZz90b2tlbj1l/eUowZVhBaU9pSktW/MVFpTENKaGJHY2lP/aUpJVXpJMU5pSjku/ZXlKemRXSWlPaUox/Y200NllYQndPamRs/TUdReE9EZzVPREl5/TmpRek56TmhOV1l3/WkRReE5XVmhNR1F5/Tm1Vd0lpd2lhWE56/SWpvaWRYSnVPbUZ3/Y0RvM1pUQmtNVGc0/T1RneU1qWTBNemN6/WVRWbU1HUTBNVFZs/WVRCa01qWmxNQ0lz/SW05aWFpSTZXMXQ3/SW1obGFXZG9kQ0k2/SWp3OU5qTXlJaXdp/Y0dGMGFDSTZJbHd2/Wmx3dlpXWTBPR1Ew/TTJZdFpEQmpPUzAw/TkRGbExXRTJNalV0/WTJObU1EWTJNakEz/TldObVhDOWtPVE54/WVhkdUxUTTRNemxp/WVdGakxUWm1aREF0/TkdJd1l5MDVabVUw/TFRkbVlUUXlOalUw/TW1aa01TNXdibWNp/TENKM2FXUjBhQ0k2/SWp3OU9UVTJJbjFk/WFN3aVlYVmtJanBi/SW5WeWJqcHpaWEoy/YVdObE9tbHRZV2Rs/TG05d1pYSmhkR2x2/Ym5NaVhYMC5ETFZ6/V19sdFgtTlZLcG9Q/OHpvWFVnRFFHbndO/Y2JYWDdVMS04UFJG/QmtJ",
+    "imagen": "https://imgs.search.brave.com/9D1Huwa451FNivKzNbICQFjiIHe9XhJn-HrDzMUVoO0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFnZXMtd2l4bXAtZWQzMGE4NmI4YzRjYTg4Nzc3MzU5NGMyLndpeG1wLmNvbS9mL2VmNDhkNDNmLWQwYzktNDQxZS1hNjI1LWNjZjA2NjIwNzVjZi9kOTNxYXduLTM4MzliYWFjLTZmZDAtNGIwYy05ZmU0LTdmYTQyNjU0MmZkMS5wbmcvdjEvZmlsbC93XzMwMCxoXzE5OCxxXzcwLHN0cnAvX3BvcnRhZGFzX3BzZF9ieV9pbG92ZW1lcmlnaHRfZDkzcWF3bi0yMDBoLmpwZz90b2tlbj1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKemRXSWlPaUoxY200NllYQndPamRsTUdReE9EZzVPREl5TmpRek56TmhOV1l3WkRReE5XVmhNR1F5Tm1Vd0lpd2lhWE56SWpvaWRYSnVPbUZ3Y0RvM1pUQmtNVGc0T1RneU1qWTBNemN6WVRWbU1HUTBNVFZsWVRCa01qWmxNQ0lzSW05aWFpSTZXMXQ3SW1obGFXZG9kQ0k2SWp3OU5qTXlJaXdpY0dGMGFDSTZJbHd2Wmx3dlpXWTBPR1EwTTJZdFpEQmpPUzAwTkRGbExXRTJNalV0WTJObU1EWTJNakEzTldObVhDOWtPVE54WVhkdUxUTTRNemxpWVdGakxUWm1aREF0TkdJd1l5MDVabVUwTFRkbVlUUXlOalUwTW1aa01TNXdibWNpTENKM2FXUjBhQ0k2SWp3OU9UVTJJbjFkWFN3aVlYVmtJanBiSW5WeWJqcHpaWEoyYVdObE9tbHRZV2RsTG05d1pYSmhkR2x2Ym5NaVhYMC5ETFZ6V19sdFgtTlZLcG9QOHpvWFVnRFFHbndOY2JYWDdVMS04UFJGQmtJ",
     "link": "https://drive.google.com/drive/folders/1mQENyZ03dMWkjT4R0dEqGmpRzLn410cZ?usp=sharing",
     "descripcion": "Colección de más de 300 portadas editables para redes sociales, eventos y promociones. Listas para personalizar en Canva o Photoshop.",
     "gratis": false,
@@ -61,7 +61,7 @@
   },
   {
     "nombre": "CUADROS EDITABLES",
-    "imagen": "https://imgs.search.brave.com/5PEsLzzQBClmQdgdrKvUJeurvlA_sarByTNPP9xVlL4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzU4MDUwMTg5L3Iv/aWwvMjM3MDE5LzY5/ODI3ODc4OTQvaWxf/MzAweDMwMC42OTgy/Nzg3ODk0X2NldmIu/anBn",
+    "imagen": "https://imgs.search.brave.com/5PEsLzzQBClmQdgdrKvUJeurvlA_sarByTNPP9xVlL4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0c3lzdGF0aWMuY29tLzU4MDUwMTg5L3IvaWwvMjM3MDE5LzY5ODI3ODc4OTQvaWxfMzAweDMwMC42OTgyNzg3ODk0X2NldmIuanBn",
     "link": "https://drive.google.com/drive/folders/1fg_SpIlaJ59bH-jH91nT_pTjGfshuXop?usp=sharing",
     "descripcion": "Plantillas editables de cuadros decorativos para redes sociales, catálogos y publicidad digital. Ideales para emprendedores y diseñadores gráficos.",
     "gratis": false,
@@ -71,7 +71,7 @@
   },
   {
     "nombre": "MIL PLANOS PARA CARPINTERIA",
-    "imagen": "https://imgs.search.brave.com/yoG82hBbNrXthebjcCnXuCDh7rvstCeiHpaxq7ixG6s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzQ0NzE0NDI5L3Iv/aWwvMTIzN2VhLzcz/MzAxNTU5NjEvaWxf/Nzk0eE4uNzMzMDE1/NTk2MV81bTZuLmpw/Zw",
+    "imagen": "https://imgs.search.brave.com/yoG82hBbNrXthebjcCnXuCDh7rvstCeiHpaxq7ixG6s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0c3lzdGF0aWMuY29tLzQ0NzE0NDI5L3IvaWwvMTIzN2VhLzczMzAxNTU5NjEvaWxfNzk0eE4uNzMzMDE1NTk2MV81bTZuLmpwZw",
     "link": "https://drive.google.com/drive/folders/1n-UOaiy7aDtGXD82mb7slEzMCZMYByqL?usp=sharing",
     "descripcion": "Compilación de más de 1000 planos detallados para carpintería, muebles, juguetes y estructuras en madera. Incluye guías técnicas y listas de materiales.",
     "gratis": false,
@@ -81,7 +81,7 @@
   },
   {
     "nombre": "CURSO FUERZA FIT",
-    "imagen": "https://imgs.search.brave.com/_JH5WwrS_DtggQOZg1OHdnZyCiLX6MZdb1XQ0zg2OmA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maXRn/ZW5lcmF0aW9uLmVz/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzAzL0d1aWEtY29t/cGxldGEtMjcuanBn",
+    "imagen": "https://imgs.search.brave.com/_JH5WwrS_DtggQOZg1OHdnZyCiLX6MZdb1XQ0zg2OmA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maXRnZW5lcmF0aW9uLmVzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzAzL0d1aWEtY29tcGxldGEtMjcuanBn",
     "link": "https://drive.google.com/drive/folders/1xslitf2swVmEUpceMhImeCTcmxrx3XWt?usp=sharing",
     "descripcion": "Programa completo de entrenamiento físico y nutrición para definir abdominales, perder grasa, ganar masa muscular y mantener un estilo de vida saludable. Incluye rutinas, planes alimenticios y consejos psicológicos.",
     "gratis": true,
@@ -91,7 +91,7 @@
   },
   {
     "nombre": "CURSO ASISTENTE CONTABLE TRIBUTARIO",
-    "imagen": "https://imgs.search.brave.com/iL4nnDtmOoGmbNJ32Egmazo0i0d7bDEmMeJeUi6cB3k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaXN0/ZW1hcy5lbmNhcC5l/ZHUucGUvc3RvcmFn/ZS9jdXJzb3MvYXNp/c3RlbnRlLWNvbnRh/YmxlLXRyaWJ1dGFy/aW8tanBnLWN1cnNv/cy0wNDExMjAyNTQ5/NTYuanBn",
+    "imagen": "https://imgs.search.brave.com/iL4nnDtmOoGmbNJ32Egmazo0i0d7bDEmMeJeUi6cB3k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaXN0ZW1hcy5lbmNhcC5lZHUucGUvc3RvcmFnZS9jdXJzb3MvYXNpc3RlbnRlLWNvbnRhYmxlLXRyaWJ1dGFyaW8tanBnLWN1cnNvcy0wNDExMjAyNTQ5NTYuanBn",
     "link": "https://drive.google.com/drive/folders/1UlgB50GYvxPGLdSqxQimFmVTWc9HYz6J?usp=sharing",
     "descripcion": "Formación para asistentes contables en temas tributarios, declaraciones, impuestos y normativas fiscales vigentes. Ideal para emprendedores y profesionales del área.",
     "gratis": false,
@@ -101,7 +101,7 @@
   },
   {
     "nombre": "CURSO DE ASISTENTE DE PLANILLAS",
-    "imagen": "https://imgs.search.brave.com/TD7Asv7jkK6GKN4o4xsDwvtx3GT_0-lAmQMzzxWSxgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZXVyb2lubm92YS5l/ZHUuZXMvaW1nL3N1/YmlkYXNFZGl0b3Iv/OSgxKS0xNjQwMTA3/OTIzLndlYnA",
+    "imagen": "https://imgs.search.brave.com/TD7Asv7jkK6GKN4o4xsDwvtx3GT_0-lAmQMzzxWSxgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4uZXVyb2lubm92YS5lZC5lcy9pbWcvc3ViaWRhc0VkaXRvci85KDEpLTE2NDAxMDc5MjMud2VicA",
     "link": "https://drive.google.com/drive/folders/1hlE3H3W4cqo3bK4Dn0EA66ahBJ6jUAMA?usp=sharing",
     "descripcion": "Aprende a gestionar nóminas, planillas de sueldos, descuentos legales y reportes laborales según normativa local. Herramientas prácticas para recursos humanos y contabilidad.",
     "gratis": false,
@@ -111,7 +111,7 @@
   },
   {
     "nombre": "CURSO DE CONCILIACIONES BANCARIAS",
-    "imagen": "https://imgs.search.brave.com/YSgXJq2yYpbRLCf1IncmEY37TztoVrHK7p-Eomhr0SE/rs:fit:500:0:1:0/g:ce/aHR0cDovL3d3dy5j/dGVjLmNvbS5hci9J/bWFnZXMvY3Vyc29z/X2ltYWdlcy9jdXJz/b19jb25jaWxpYWNp/b25fYmFuY2FyaWEu/anBn",
+    "imagen": "https://imgs.search.brave.com/YSgXJq2yYpbRLCf1IncmEY37TztoVrHK7p-Eomhr0SE/rs:fit:500:0:1:0/g:ce/aHR0cDovL3d3dy5jdGVjLmNvbS5hci9JbWFnZXMvY3Vyc29zX2ltYWdlcy9jdXJzb19jb25jaWxpYWNpb25fYmFuY2FyaWEuanBn",
     "link": "https://drive.google.com/drive/folders/1WeW1bCO2UohdXG_rJ9-88qcD7KQs-RrM?usp=sharing",
     "descripcion": "Curso práctico para realizar conciliaciones bancarias, detectar errores y ajustar saldos contables. Esencial para contadores y administradores financieros.",
     "gratis": false,
@@ -121,7 +121,7 @@
   },
   {
     "nombre": "CURSO CONTABILIDAD DESDE CERO",
-    "imagen": "https://imgs.search.brave.com/ER_sFNgauzz6WbkxhvEIGGBonZtK_eY6o02YAIBpWDE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFxdTFoZGRMREwu/anBn",
+    "imagen": "https://imgs.search.brave.com/ER_sFNgauzz6WbkxhvEIGGBonZtK_eY6o02YAIBpWDE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFxdTFoZGRMREwuanBn",
     "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing",
     "descripcion": "Introducción completa a la contabilidad financiera: partidas dobles, libros contables, estados financieros y principios contables básicos.",
     "gratis": false,
@@ -131,7 +131,7 @@
   },
   {
     "nombre": "CURSO DE CONTADOR DESDE CERO",
-    "imagen": "https://imgs.search.brave.com/wINYqz6JWsEhSpX1BaYCeB4ecKmxA7GE0eL6HcvR_kc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/YmxvZy5zdXBlcnBy/b2YuY29tL2Jsb2df/Y28vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDkvYmFvbGFu/dmUuanBn",
+    "imagen": "https://imgs.search.brave.com/wINYqz6JWsEhSpX1BaYCeB4ecKmxA7GE0eL6HcvR_kc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4tYmxvZy5zdXBlcnByb2YuY29tL2Jsb2dfY28vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDkvYmFvbGFudmUuanBn",
     "link": "https://drive.google.com/drive/folders/1sucI_OqN5PHWKvbYW4jAypXowxV5gpLv?usp=sharing",
     "descripcion": "Formación integral para convertirse en contador profesional. Cubre contabilidad general, costos, impuestos, auditoría y uso de software contable.",
     "gratis": false,
@@ -141,7 +141,7 @@
   },
   {
     "nombre": "CURSO DE WORDPRESS",
-    "imagen": "https://imgs.search.brave.com/nol5uPLGQwlNS0KciXdnrlmedOAzSPJkIJSaNB3AvGY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aG9zdGFkdmljZS5j/b20vMjAyMi8xMC9m/aW5hbC13aGF0LWlz/LXdvcmRwcmVzcy1h/bi1vdmVydmlldy1v/Zi10aGUtd29ybGQt/cy1tb3N0LXBvcHVs/YXItY21zLTAucG5n",
+    "imagen": "https://imgs.search.brave.com/nol5uPLGQwlNS0KciXdnrlmedOAzSPJkIJSaNB3AvGY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4uaG9zdGFkdmljZS5jb20vMjAyMi8xMC9maW5hbC13aGF0LWlzLXdvcmRwcmVzcy1hbi1vdmVydmlldy1vZi10aGUtd29ybGQncy1tb3N0LXBvcHVsYXItY21zLTAucG5n",
     "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing",
     "descripcion": "Aprende a crear y gestionar sitios web con WordPress: instalación, plugins, temas, SEO básico y e-commerce con WooCommerce.",
     "gratis": false,
@@ -151,7 +151,7 @@
   },
   {
     "nombre": "CURSO DE CREACION DE VIDEOJUEGOS",
-    "imagen": "https://imgs.search.brave.com/jD1vsE3MUrgE9-U06pYT_C3AOcrD_51uXLifBxgHZuI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lZHVj/YWhpc3RvcmlhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wNy9kYW1hcmt1/c3dvbGZfaGlzdG9y/eV9vZl92aWRlb2dh/bWVzX2NpbmVtYXRv/Z3JhcGhpY19iYTI0/ZTVjNy04OWQxLTQy/NTYtOTRlZC1mODdh/NTYzOWQ4YTEtMTAy/NHg1NzQucG5n",
+    "imagen": "https://imgs.search.brave.com/jD1vsE3MUrgE9-U06pYT_C3AOcrD_51uXLifBxgHZuI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lZHVjYWhpc3RvcmlhLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNy9kYW1hcmt1c3dvbGZfaGlzdG9yeV9vZl92aWRlb2dhbWVzX2NpbmVtYXRvZ3JhcGhpY19iYTI0ZTVjNy04OWQxLTQyNTYtOTRlZC1mODdhNTYzOWQ4YTEtMTAyNHg1NzQucG5n",
     "link": "https://drive.google.com/drive/folders/1C8ASJmuX7ZPqkZw96wDR5hL25KvCfwB8?usp=sharing",
     "descripcion": "Introducción al desarrollo de videojuegos con motores como Unity o Godot. Conceptos de programación, diseño de niveles, arte y lógica de juego.",
     "gratis": true,
@@ -161,7 +161,7 @@
   },
   {
     "nombre": "CURSO ADOBE PHOTOSHOP RETOQUES Y RETRATOS",
-    "imagen": "https://imgs.search.brave.com/PAzJp2nWmcWvKviJERGdMDoXIecE3dldo2pnWPGCDfw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQWRv/YmUtUGhvdG9zaG9w/LWZvci0xLVVzZXIt/b24tTXVsdGlwbGUt/UGxhdGZvcm1zLURp/Z2l0YWwtRG93bmxv/YWRfZjU0ZjEzY2Qt/YTdiZS00Zjc3LWIz/M2ItNGQ1MzliZTY5/Zjc3LmE5ZWE5M2Yw/NjczYjI5NjEwMWI2/MjA3N2Q1ZGNjNjYx/LnBuZz9vZG5IZWln/aHQ9NTc2Jm9kbldp/ZHRoPTU3NiZvZG5C/Zz1GRkZGRkY",
+    "imagen": "https://imgs.search.brave.com/PAzJp2nWmcWvKviJERGdMDoXIecE3dldo2pnWPGCDfw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9zZW8vQWRvYmUtUGhvdG9zaG9wLWZvci0xLVVzZXItb24tTXVsdGlwbGUtUGxhdGZvcm1zLURpZ2l0YWwtRG93bmxvYWRfZjU0ZjEzY2QtYTdiZS00Zjc3LWIzM2ItNGQ1MzliZTY5Zjc3LmE5ZWE5M2YwNjczYjI5NjEwMWI2MjA3N2Q1ZGNjNjYxLnBuZz9vZG5IZWlnaHQ9NTc2Jm9kbldpZHRoPTU3NiZvZG5CZz1GRkZGRkY",
     "link": "https://drive.google.com/file/d/1wuUrpUxG4WOcQrhqcLYAuuMOHybJwepy/view?usp=sharing",
     "descripcion": "Curso especializado en retoque fotográfico y edición de retratos con Adobe Photoshop. Técnicas profesionales de corrección de color, piel, iluminación y composición.",
     "gratis": false,
@@ -171,7 +171,7 @@
   },
   {
     "nombre": "CURSO ENSAMBLAJE DE COMPUTADORAS",
-    "imagen": "https://imgs.search.brave.com/xwmMLL1yop4k0P8zg644ylCEBqjQdR7htp88fyDBxDk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGMtaGFyZC5jb20v/bWVkaWEvMzAvY29u/dmVyc2lvbnMvY3Vy/c28tZW5zYW1ibGFq/ZS1jb21wdXRhZG9y/YXMtcGMtaGFyZC1w/b3N0cy53ZWJw",
+    "imagen": "https://imgs.search.brave.com/xwmMLL1yop4k0P8zg644ylCEBqjQdR7htp88fyDBxDk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cucGMtaGFyZC5jb20vbWVkaWEvMzAvY29udmVyc2lvbnMvY3Vyc28tZW5zYW1ibGFqZS1jb21wdXRhZG9yYXMtcGMtaGFyZC1wb3N0cy53ZWJw",
     "link": "https://drive.google.com/drive/folders/1IcjCGJTMhg9B0YAr-A5GFStOP-sRcB_R?usp=sharing",
     "descripcion": "Aprende a armar, diagnosticar y reparar computadoras desde cero. Incluye selección de componentes, instalación de sistemas operativos y resolución de problemas comunes.",
     "gratis": true,
@@ -180,10 +180,10 @@
     "codigo_autorizacion": ""
   },
   {
-    "nombre": "CURSO COMPLETO DE MICROSOFT WORD",
-    "imagen": "https://imgs.search.brave.com/Vv7a7t-_nuYo9rt_UvOt8vuomDqW11J3p-e1MJbccD8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudGVjaHJlcHVi/bGljLmNvbS91cGxv/YWRzLzIwMjEvMDQv/bWljcm9zb2Z0LXdv/cmQuanBn",
+    "nombre": "CURSO COMPLETO DE MICROSOFT WORD (Avanzado)",
+    "imagen": "https://imgs.search.brave.com/Vv7a7t-_nuYo9rt_UvOt8vuomDqW11J3p-e1MJbccD8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3NldHMudGVjaHJlcHVibGljLmNvbS91cGxvYWRzLzIwMjEvMDQvbWljcm9zb2Z0LXdvcmQuanBn",
     "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link",
-    "descripcion": "Curso gratuito de Microsoft Word desde nivel básico hasta intermedio. Aprende a crear documentos profesionales, usar formatos avanzados, tablas, encabezados, índices, cartas, trabajos académicos y más. Ideal para estudiantes, docentes y público en general.",
+    "descripcion": "Versión avanzada del curso de Word. Profundiza en estilos, plantillas, macros, combinación de correspondencia y automatización de documentos complejos.",
     "gratis": true,
     "precio": "0.00",
     "ContactoDistribuidor": "",
@@ -201,7 +201,7 @@
   },
   {
     "nombre": "COLECCIÓN COMPLETA DE CONDORITO",
-    "imagen": "https://imgs.search.brave.com/RMDcK_zoOe2urBQrVjcAoqGUqqBkuhku3WMw9NkI5_g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF2ZVVnSGxQakwu/anBn",
+    "imagen": "https://imgs.search.brave.com/RMDcK_zoOe2urBQrVjcAoqGUqqBkuhku3WMw9NkI5_g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTF2ZVVnSGxQakwuanBn",
     "link": "https://drive.google.com/drive/folders/10ptJPmyPA8SHwizMWh6uxqQXjgzVsAj0?usp=sharing",
     "descripcion": "Colección gratuita de revistas clásicas de Condorito en formato digital. Humor latinoamericano, entretenimiento sano y material histórico ideal para todas las edades.",
     "gratis": false,
