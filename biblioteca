@@ -25,13 +25,76 @@
       "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/booklovers-revista-de-libros-h1-1_qpsu8e.png"
     },
     {
-      "nombre": "Google libros",
+      "nombre": "Google Libros",
       "url": "https://books.google.com/",
       "font_size": 28,
       "altura": 55,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF",
       "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1766582151/feliz-navidad-merry-christmas-in-spanish-text-for-card-for-your-design-christmas-tree-glass_toqnbu.jpg"
+    },
+    {
+      "nombre": "Proyecto Gutenberg (Español)",
+      "url": "https://www.gutenberg.org/browse/languages/es",
+      "font_size": 32,
+      "altura": 65,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/gutenberg-classic-books_hxk2nq.png"
+    },
+    {
+      "nombre": "Wikisource en Español",
+      "url": "https://es.wikisource.org/wiki/Portada",
+      "font_size": 32,
+      "altura": 65,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/wikisource-logo-es_yj4m9r.png"
+    },
+    {
+      "nombre": "Elejandria",
+      "url": "https://www.elejandria.com/",
+      "font_size": 32,
+      "altura": 65,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/elejandria-books-library_m8z3kp.png"
+    },
+    {
+      "nombre": "Open Library",
+      "url": "https://openlibrary.org/",
+      "font_size": 32,
+      "altura": 65,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/open-library-icon_r5w9fv.png"
+    },
+    {
+      "nombre": "Biblioteca Cervantes Virtual",
+      "url": "https://www.cervantesvirtual.com/",
+      "font_size": 32,
+      "altura": 65,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/cervantes-virtual-logo_s2kqnl.png"
+    },
+    {
+      "nombre": "Textos.info",
+      "url": "https://www.textos.info/",
+      "font_size": 32,
+      "altura": 65,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/textos-info-books_u7y4xp.png"
+    },
+    {
+      "nombre": "Dominio Público",
+      "url": "https://dominiopublico.es/",
+      "font_size": 32,
+      "altura": 65,
+      "color_fondo": "#C62828",
+      "color_texto": "#FFFFFF",
+      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/dominiopublico-es_culture_k9f2mr.png"
     }
   ]
 }
