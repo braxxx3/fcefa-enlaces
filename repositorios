@@ -1,6 +1,6 @@
 {
   "mensaje": "HERRAMIENTAS Y PAGINAS UTILES DE INTERNET",
-  "fondo_url": "https://wallpapers.com/images/hd/neon-green-background-72d7kxhuc60md58v.jpg",
+  "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
   "enlaces": [
     { "nombre": "ConvertDrop - Converter", "url": "https://www.convertdrop.com/converter", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
     { "nombre": "ConvertDrop - PDF Tools", "url": "https://www.convertdrop.com/pdf", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
@@ -39,8 +39,9 @@
 
     { "nombre": "Coursera", "url": "https://www.coursera.org", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
     { "nombre": "Skillshop Google", "url": "https://skillshop.exceedlms.com/student/catalog", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
-    { "nombre": "Fiverr", "url": "https://www.fiverr.com", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
-
+    { "nombre": "Fiverr", "url": "https://www.fiverr.com", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" }
+  ],
+  "enlaces_universidades": [
     { "nombre": "UNIVERSIDAD SAVIO DOMINGO", "url": "https://www.upds.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#0277BD", "color_texto": "#FFFFFF" },
     { "nombre": "UNIVERSIDAD UTO", "url": "https://www.uto.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" },
     { "nombre": "UNIVERSIDAD UDABOL", "url": "https://www.udabol.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#D32F2F", "color_texto": "#FFFFFF" },
