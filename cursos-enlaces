@@ -1,6 +1,186 @@
 [
   {
     "nombre": "CURSO COMPLETO DE MICROSOFT WORD",
+    "imagen": "https://imgs.search.brave.com/Vv7a7t-_nuYo9rt_UvOt8vuomDqW11J3p-e1MJbccD8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3NldHMudGVjaHJlcHVibGljLmNvbS91cGxvYWRzLzIwMjEvMDQvbWljcm9zb2Z0LXdvcmQuanBn",
+    "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link",
+    "descripcion": "Curso gratuito de Microsoft Word desde nivel básico hasta intermedio. Aprende a crear documentos profesionales, usar formatos avanzados, tablas, encabezados, índices, cartas, trabajos académicos y más. Ideal para estudiantes, docentes y público en general.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO POWER POINT",
+    "imagen": "https://imgs.search.brave.com/4k5VfAeFzZyKqXrUdCmNl6TjE2bZzgN8sPfJvWqVh4c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvUG93ZXJQb2ludC1sb2dvLnBuZw",
+    "link": "https://drive.google.com/drive/folders/1YkkzvCq-gFNuQ5i5wHilVLnDEPXhlTbc?usp=sharing",
+    "descripcion": "Aprende a crear presentaciones dinámicas y profesionales con Microsoft PowerPoint. Incluye diseño de diapositivas, animaciones, transiciones y herramientas colaborativas.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO PROYECT",
+    "imagen": "https://imgs.search.brave.com/2kZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3NldHMucmVkb2NvLmNvbS9pbWFnZW5lcy9taWNyb3NvZnQtcHJvamVjdC1sb2dvLnBuZw",
+    "link": "https://drive.google.com/drive/folders/1hn-CjPmwWsnS4ZBjYrl3Ji2zFXxiVnMw?usp=sharing",
+    "descripcion": "Curso esencial de Microsoft Project para la gestión eficiente de proyectos. Aprende a planificar tareas, asignar recursos, gestionar cronogramas y generar diagramas de Gantt.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO INGLES MUNDO MAGICO DISNEY",
+    "imagen": "https://imgs.search.brave.com/0xUQmXJ6Wq3JQfZ6ZxZqXfJzXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvRGlzbmV5LWxvZ28ucG5n",
+    "link": "https://drive.google.com/drive/folders/1-QORzoxO8oYlkD2wu0ExRezwEb6yJzxv?usp=sharing",
+    "descripcion": "Curso de inglés basado en el universo mágico de Disney. Ideal para niños y principiantes que desean aprender vocabulario, pronunciación y gramática básica de forma divertida.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSOS DE INGLES DOMINA VERBOS",
+    "imagen": "https://imgs.search.brave.com/tR8eWnJ6Wq3JQfZ6ZxZqXfJzXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3NldHMucmVkb2NvLmNvbS9pbWFnZW5lcy9lbmdsaXNoLWdyYW1tYXIucG5n",
+    "link": "https://drive.google.com/drive/folders/1pqyzOecH8nw8_AWt3HLwfKCJSEaMCK-K?usp=sharing",
+    "descripcion": "Domina los tiempos verbales en inglés con este curso completo. Incluye presente, pasado, futuro, condicional, perfectos y continuos, con ejercicios prácticos.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "PORTADAS EDITABLES",
+    "imagen": "https://imgs.search.brave.com/5kZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvZ3JhcGhpYy1kZXNpZ24ucG5n",
+    "link": "https://drive.google.com/drive/folders/1mQENyZ03dMWkjT4R0dEqGmpRzLn410cZ?usp=sharing",
+    "descripcion": "Colección de más de 300 portadas editables para redes sociales, eventos y promociones. Listas para personalizar en Canva o Photoshop.",
+    "gratis": false,
+    "precio": "20.00",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "7623"
+  },
+  {
+    "nombre": "CUADROS EDITABLES",
+    "imagen": "https://imgs.search.brave.com/7kZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvZ3JhcGhpYy1mcmFtZS5wbmc=",
+    "link": "https://drive.google.com/drive/folders/1fg_SpIlaJ59bH-jH91nT_pTjGfshuXop?usp=sharing",
+    "descripcion": "Plantillas editables de cuadros decorativos para redes sociales, catálogos y publicidad digital. Ideales para emprendedores y diseñadores gráficos.",
+    "gratis": false,
+    "precio": "20.00",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "9983"
+  },
+  {
+    "nombre": "MIL PLANOS PARA CARPINTERIA",
+    "imagen": "https://imgs.search.brave.com/9kZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvY2FycGVudGVyeS1wbGFuLnBuZw==",
+    "link": "https://drive.google.com/drive/folders/1n-UOaiy7aDtGXD82mb7slEzMCZMYByqL?usp=sharing",
+    "descripcion": "Compilación de más de 1000 planos detallados para carpintería, muebles, juguetes y estructuras en madera. Incluye guías técnicas y listas de materiales.",
+    "gratis": false,
+    "precio": "20.00",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "3332"
+  },
+  {
+    "nombre": "CURSO FUERZA FIT",
+    "imagen": "https://imgs.search.brave.com/akZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvZml0bmVzcy1jb3Vyc2UucG5n",
+    "link": "https://drive.google.com/drive/folders/1xslitf2swVmEUpceMhImeCTcmxrx3XWt?usp=sharing",
+    "descripcion": "Programa completo de entrenamiento físico y nutrición para definir abdominales, perder grasa, ganar masa muscular y mantener un estilo de vida saludable. Incluye rutinas, planes alimenticios y consejos psicológicos.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO ASISTENTE CONTABLE TRIBUTARIO",
+    "imagen": "https://imgs.search.brave.com/bkZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvYWNjb3VudGluZy1jb3Vyc2UucG5n",
+    "link": "https://drive.google.com/drive/folders/1UlgB50GYvxPGLdSqxQimFmVTWc9HYz6J?usp=sharing",
+    "descripcion": "Formación para asistentes contables en temas tributarios, declaraciones, impuestos y normativas fiscales vigentes. Ideal para emprendedores y profesionales del área.",
+    "gratis": false,
+    "precio": "10.00",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "6625"
+  },
+  {
+    "nombre": "CURSO DE ASISTENTE DE PLANILLAS 10BS",
+    "imagen": "https://imgs.search.brave.com/ckZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvcGF5cm9sbC1jb3Vyc2UucG5n",
+    "link": "https://drive.google.com/drive/folders/1hlE3H3W4cqo3bK4Dn0EA66ahBJ6jUAMA?usp=sharing",
+    "descripcion": "Aprende a gestionar nóminas, planillas de sueldos, descuentos legales y reportes laborales según normativa local. Herramientas prácticas para recursos humanos y contabilidad.",
+    "gratis": false,
+    "precio": "10.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO DE CONCILIACIONES BANCARIAS",
+    "imagen": "https://imgs.search.brave.com/dkZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvYmFuay1yZWNvbmNpbGlhdGlvbi5wbmc=",
+    "link": "https://drive.google.com/drive/folders/1WeW1bCO2UohdXG_rJ9-88qcD7KQs-RrM?usp=sharing",
+    "descripcion": "Curso práctico para realizar conciliaciones bancarias, detectar errores y ajustar saldos contables. Esencial para contadores y administradores financieros.",
+    "gratis": false,
+    "precio": "10 bs",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO CONTABILIDAD DESDE CERO",
+    "imagen": "https://imgs.search.brave.com/ekZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvYWNjb3VudGluZy1iYXNpY3MucG5n",
+    "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing",
+    "descripcion": "Introducción completa a la contabilidad financiera: partidas dobles, libros contables, estados financieros y principios contables básicos.",
+    "gratis": false,
+    "precio": "10 bs",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "1112"
+  },
+  {
+    "nombre": "CURSO DE CONTADOR DESDE CERO",
+    "imagen": "https://imgs.search.brave.com/fkZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvYWNjb3VudGFudC10cmFpbmluZy5wbmc=",
+    "link": "https://drive.google.com/drive/folders/1sucI_OqN5PHWKvbYW4jAypXowxV5gpLv?usp=sharing",
+    "descripcion": "Formación integral para convertirse en contador profesional. Cubre contabilidad general, costos, impuestos, auditoría y uso de software contable.",
+    "gratis": false,
+    "precio": "10 bs",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "1010"
+  },
+  {
+    "nombre": "CURSO DE WORDPRESS",
+    "imagen": "https://imgs.search.brave.com/gkZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvd29yZHByZXNzLWxvZ28ucG5n",
+    "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing",
+    "descripcion": "Aprende a crear y gestionar sitios web con WordPress: instalación, plugins, temas, SEO básico y e-commerce con WooCommerce.",
+    "gratis": false,
+    "precio": "10 bs",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "6638"
+  },
+  {
+    "nombre": "CURSO DE CREACION DE VIDEOJUEGOS",
+    "imagen": "https://imgs.search.brave.com/hkZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvZ2FtZS1kZXZlbG9wbWVudC5wbmc=",
+    "link": "https://drive.google.com/drive/folders/1C8ASJmuX7ZPqkZw96wDR5hL25KvCfwB8?usp=sharing",
+    "descripcion": "Introducción al desarrollo de videojuegos con motores como Unity o Godot. Conceptos de programación, diseño de niveles, arte y lógica de juego.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO ADOBE PHOTOSHOP RETOQUES Y RETRATOS",
+    "imagen": "https://imgs.search.brave.com/ikZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvcGhvdG9zaG9wLWxvZ28ucG5n",
+    "link": "https://drive.google.com/file/d/1wuUrpUxG4WOcQrhqcLYAuuMOHybJwepy/view?usp=sharing",
+    "descripcion": "Curso especializado en retoque fotográfico y edición de retratos con Adobe Photoshop. Técnicas profesionales de corrección de color, piel, iluminación y composición.",
+    "gratis": false,
+    "precio": "20.00 bs",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "7738"
+  },
+  {
+    "nombre": "CURSO ENSAMBLAJE DE COMPUTADORAS",
+    "imagen": "https://imgs.search.brave.com/jkZxGdDyWxN6mKQJxZfV9nVvZ4yVh3JvXqYlJ6JQv1M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0aWMudmlrdGlvcC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDcvY29tcHV0ZXItYXNzZW1ibHkucG5n",
+    "link": "https://drive.google.com/drive/folders/1IcjCGJTMhg9B0YAr-A5GFStOP-sRcB_R?usp=sharing",
+    "descripcion": "Aprende a armar, diagnosticar y reparar computadoras desde cero. Incluye selección de componentes, instalación de sistemas operativos y resolución de problemas comunes.",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+  {
+    "nombre": "CURSO COMPLETO DE MICROSOFT WORD",
     "imagen": "https://imgs.search.brave.com/Vv7a7t-_nuYo9rt_UvOt8vuomDqW11J3p-e1MJbccD8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudGVjaHJlcHVi/bGljLmNvbS91cGxv/YWRzLzIwMjEvMDQv/bWljcm9zb2Z0LXdv/cmQuanBn",
     "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link",
     "descripcion": "Curso gratuito de Microsoft Word desde nivel básico hasta intermedio. Aprende a crear documentos profesionales, usar formatos avanzados, tablas, encabezados, índices, cartas, trabajos académicos y más. Ideal para estudiantes, docentes y público en general.",
@@ -24,10 +204,10 @@
     "imagen": "https://imgs.search.brave.com/RMDcK_zoOe2urBQrVjcAoqGUqqBkuhku3WMw9NkI5_g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF2ZVVnSGxQakwu/anBn",
     "link": "https://drive.google.com/drive/folders/10ptJPmyPA8SHwizMWh6uxqQXjgzVsAj0?usp=sharing",
     "descripcion": "Colección gratuita de revistas clásicas de Condorito en formato digital. Humor latinoamericano, entretenimiento sano y material histórico ideal para todas las edades.",
-    "gratis": true,
-    "precio": "0.00",
-    "ContactoDistribuidor": "",
-    "codigo_autorizacion": ""
+    "gratis": false,
+    "precio": "10 bs",
+    "ContactoDistribuidor": "59161829898",
+    "codigo_autorizacion": "2015"
   },
   {
     "nombre": "CURSO DE GUITARRA PARA PRINCIPIANTES",
@@ -35,19 +215,9 @@
     "link": "https://1024terabox.com/s/1vdJZApI7PUXLSAwUx-7eug",
     "descripcion": "Aprende guitarra desde cero de forma fácil y práctica. Domina acordes, ritmos y técnicas esenciales para tocar tus primeras canciones rápidamente, sin conocimientos previos y con lecciones claras paso a paso.",
     "gratis": false,
-    "precio": "5 bs",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "9237"
-  },
-  {
-    "nombre": "Curso Exclusivo de Hacking Ético",
-    "imagen": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop",
-    "link": "https://github.com/braxxx3/hacking-etico-fcefa",
-    "descripcion": "Curso completo de Hacking Ético con fundamentos, técnicas de penetración, análisis de vulnerabilidades y laboratorios prácticos. Incluye repositorio GitHub, documentos PDF, entornos virtuales de práctica y certificación interna FCEFA.",
-    "gratis": false,
-    "precio": "15 bs",
-    "ContactoDistribuidor": "59170000000",
-    "codigo_autorizacion": "5678"
   },
   {
     "nombre": "CURSO DE EXCEL",
@@ -56,7 +226,7 @@
     "descripcion": "Curso completo de Microsoft Excel desde nivel básico hasta intermedio. Aprende fórmulas, funciones, tablas dinámicas, gráficos, automatización básica y uso profesional para estudios y trabajo.",
     "gratis": false,
     "precio": "10 bs",
-    "ContactoDistribuidor": "59170000000",
+    "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "9012"
   }
 ]
