@@ -13,7 +13,7 @@
       "nombre": "PÁGINA OFICIAL FCEFA",
       "url": "https://www.fcefa.edu.bo/index.php?view=featured",
       "font_size": 28,
-      "altura": 60,
+      "altura": 55,
       "color_fondo": "#4285F4",
       "color_texto": "#FFFFFF"
     },
@@ -24,6 +24,14 @@
       "altura": 55,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF"
+    },
+     {
+      "nombre": "FNI DRAGON",
+      "url": "https://www.fcefa.edu.bo/index.php?view=featured",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#4285F4",  // azul Google
+      "color_texto": "#111111"   // texto casi negro
     },
     {
       "nombre": "AYUDANOS A MEJORAR DONACIONES",
