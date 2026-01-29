@@ -21,9 +21,9 @@
   },
   {
     "nombre": "Curso Exclusivo de Hacking Ético",
-    "imagen": "...",
-    "link": "...",
-    "descripcion": "...",
+    "imagen": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop",
+    "link": "https://ejemplo.com/hacking-etico",
+    "descripcion": "Domina pruebas de penetración, redes y seguridad informática.",
     "gratis": false,
     "precio": "$199.99",
     "ContactoDistribuidor": "59170000000",
