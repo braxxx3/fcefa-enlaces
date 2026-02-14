@@ -17,9 +17,17 @@
     "https://www.atb.com.bo/wp-content/uploads/2025/01/Oruro2901.jpg",
     "https://i.ytimg.com/vi/Lkt60ITPlWU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDGXVKafBw0QZT8iQrgZVQGSm_2og"
   ],
-  "enlaces": [
+  "enlaces": [    
     {
-      "nombre": "UNIVERSIDAD SAVIO DOMINGO",
+      "nombre": "CENTRO ESTUDIANTES CONTA-PUES",
+      "url": "https://conta-pues.web.app/#/CE-Conta-Pues",
+      "font_size": 28,
+      "altura": 55,
+      "color_fondo": "#025E96",
+      "color_texto": "#FFFFFF"
+    },
+    {
+      "nombre": "UNIVERSIDAD SAVIO DOMING",
       "url": "https://www.upds.edu.bo/",
       "font_size": 28,
       "altura": 55,
