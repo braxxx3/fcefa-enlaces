@@ -4,7 +4,8 @@
   "enlaces": [
 
     { "nombre": "WIFI CONTA-PUES", "url": "https://conta-pues.web.app/#/informate/wifi-conta-pues", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
-    { "nombre": "CALCULADORA DE NOTAS FECEFA", "url": "https://conta-pues.web.app/#/", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "CALCULADORA DE NOTAS FCEFA", "url": "https://conta-pues.web.app/#/", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
+    { "nombre": "DESCARGA RAPIDA TERABOX", "url": "https://iteraplay.com/terabox-downloader/", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
     { "nombre": "ConvertDrop - Converter", "url": "https://www.convertdrop.com/converter", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
     { "nombre": "ConvertDrop - PDF Tools", "url": "https://www.convertdrop.com/pdf", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
     { "nombre": "ConvertDrop - Generator", "url": "https://www.convertdrop.com/generator", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
@@ -43,6 +44,7 @@
     { "nombre": "Coursera", "url": "https://www.coursera.org", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
     { "nombre": "Skillshop Google", "url": "https://skillshop.exceedlms.com/student/catalog", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
     { "nombre": "Fiverr", "url": "https://www.fiverr.com", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
+    { "nombre": "QUITAR MARCA DE AGUA SORA", "url": "https://dyysy.com/", "font_size": 26, "altura": 55, "color_fondo": "#283593", "color_texto": "#FFFFFF" },
 
     { "nombre": "UNIVERSIDAD SAVIO DOMINGO", "url": "https://www.upds.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#0277BD", "color_texto": "#FFFFFF" },
     { "nombre": "UNIVERSIDAD UTO", "url": "https://www.uto.edu.bo/", "font_size": 28, "altura": 55, "color_fondo": "#388E3C", "color_texto": "#FFFFFF" },
