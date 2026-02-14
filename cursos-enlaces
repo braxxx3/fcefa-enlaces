@@ -1,39 +1,43 @@
 [
-  {
-  "nombre": "EMEQ SISMOLOGIA",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFt915DVNAmut3Ssj85VmwF8915SG5f4pgA&s",
-  "link": "https://drive.google.com/drive/folders/1mCt1YPXZWtPCzGR1cgBD_cZN_E45N6ct?fbclid=IwdGRjcAP3Lq1jbGNrA_cuqGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHg36tHh__75W4pNAo_0xbTpIOkPBSyAdmsBeAcmjlo2058Z90MWMj6WpJbgZ_aem_IWvezcuj5RHiiUYJX0Wd7g",
-  "descripcion": "Curso completo de Sismología aplicada: comprende los fundamentos científicos de los terremotos, ondas sísmicas, placas tectónicas y riesgo sísmico en Bolivia. Aprende a interpretar sismogramas, identificar zonas de peligro sísmico (especialmente en el Altiplano y valles bolivianos), y aplicar medidas de prevención en hogares y escuelas. Incluye casos reales de sismos en Sudamérica, protocolos de evacuación y cómo actuar antes, durante y después de un sismo. Ideal para estudiantes de geología, ingeniería civil, docentes y comunidades en zonas sísmicas como Oruro, Potosí y La Paz.",
-  "gratis": true,
-  "precio": "0.00",
-  "ContactoDistribuidor": "",
-  "codigo_autorizacion": ""
-  }
-  {
+   {
     "nombre": "INGLES SIN BARRERAS AUDIO/LIBRO",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBQkSTNGR--q-vpG6bVLmR7e3NSNisYSHhg&s",
-    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwAR3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ",
-    "descripcion": "Inglés sin Barreras es un reconocido curso diseñado para hispanohablantes que desean aprender inglés americano de forma autodidacta, enfocado en situaciones de la vida cotidiana y laboral. Históricamente, el método incluía videos, audios y manuales (DVDs/CDs) para aprender desde un nivel principiante hasta intermedio, con un enfoque en la repetición y el contexto conversacional.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn  :ANd9GcREBQkSTNGR--q-vpG6bVLmR7e3NSNisYSHhg&s",
+    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwdGRjcAP3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ  ",
+    "descripcion": "Inglés sin Barreras es un reconocido curso diseñado para hispanohablantes que desean aprender inglés americano de forma autodidacta, enfocado en situaciones de la vida cotidiana y laboral. Históricamente, el método incluía videos, audios y manuales (DVDs/CDs) para aprender desde un nivel principiante hasta intermedio, con un enfoque en la repetición y el contexto conversacional. ",
     "gratis": true,
     "precio": "0.00",
     "ContactoDistribuidor": "",
     "codigo_autorizacion": ""
   },
-  {
-    "nombre": "APRENDE EXCEL FACIL",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhCsHYefRXgYM7jAICgWZdS2rhH9px_YgWg&s",
-    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwAR3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ",
-    "descripcion": "Clase introductoria\nCapítulo 1 Generalidades del programa Excel\nCapítulo 2 Ingresos de datos, formatos y estructura de las funciones\nCapítulo 3 Ordenar y filtrar los datos de excel\nCapítulo 4 Profundizando en el manejo de funciones\nCapítulo 5 Gráficos en Excel\nCapítulo 6 Buenas practicas de impresión\nCapítulo 7 Tratamiento de fecha, horas y datos de textos y plantillas\nCapítulo Bono (El poder de los MACROS)\nDespedida",
+   {"nombre": "APRENDE EXCEL FACIL",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn  :ANd9GcSNhCsHYefRXgYM7jAICgWZdS2rhH9px_YgWg&s",
+    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwdGRjcAP3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ  ",
+    "descripcion": "
+Clase introductoria
+Capítulo 1 Generalidades del programa Excel
+Capítulo 2 Ingresos de datos ,formatos y estructura de las funciones
+Capítulo 3 Ordenar y filtrar los datos de excel
+Capítulo 4 Profundizando en el manejo de funciones
+Capítulo 5 Gráficos en Excel
+Capítulo 6 Buenas practicas de impresión
+Capítulo7 Tratamiento de fecha , horas y datos de textos y plantillas
+Capítulo Bono ( El poder los MACROS)
+Despedida",
     "gratis": true,
     "precio": "0.00",
     "ContactoDistribuidor": "",
     "codigo_autorizacion": ""
   },
-  {
-    "nombre": "COLECCION DE PELICULAS",
-    "imagen": "https://aldianews.com/sites/default/files/2024-12/COLLAGE%20PEL%C3%8DCULAS.jpg",
-    "link": "https://drive.google.com/drive/mobile/folders/1YWe3oAUVgj1d4ElzKSt6LMITgjz1oiAZ?usp=sharing&fbclid=IwAR3of2VjbGNrA-h-YWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHu1QBSJV6FXB-O85VBqHRqfPuk9QdCttrVizqSVF5t04YgRtx8PFHiFtrI-W_aem_Wf_y5oR4YBmSadHuRMh5zA",
-    "descripcion": "🎁 PELÍCULAS Y SERIES GRATIS POR GOOGLE DRIVE\n\nAcceso a 2TB gratis\n\n💥 Acción | 😱 Terror | ❤️ Romance\n\n🎬 Clásicos inolvidables y estrenos recientes",
+{"nombre": "COLECCION DE PELICULAS",
+    "imagen": "https://aldianews.com/sites/default/files/2024-12/COLLAGE%20PEL%C3%8DCULAS.jpg  ",
+    "link": "https://drive.google.com/drive/mobile/folders/1YWe3oAUVgj1d4ElzKSt6LMITgjz1oiAZ?usp=sharing&fbclid=IwdGRjcAPof2VjbGNrA-h-YWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHu1QBSJV6FXB-O85VBqHRqfPuk9QdCttrVizqSVF5t04YgRtx8PFHiFtrI-W_aem_Wf_y5oR4YBmSadHuRMh5zA  ",
+    "descripcion": "🎁P3LICULAS Y SERlES GRATIS POR G00GLE DRlVE
+
+Acceso a 2TB gratis
+
+💥 Acción | 😱 Terror | ❤️ Romance
+
+🎬 Clásicos inolvidables y estrenos recientes",
     "gratis": true,
     "precio": "0.00",
     "ContactoDistribuidor": "",
@@ -41,9 +45,9 @@
   },
   {
     "nombre": "CURSO COMPLETO DE MICROSOFT WORD (Básico-Intermedio)",
-    "imagen": "https://i.blogs.es/046381/word/1366_521.jpg",
-    "video": "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/videos/godot_curso1_preview.mp4",
-    "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link",
+    "imagen": "https://i.blogs.es/046381/word/1366_521.jpg  ",
+    "video": "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/videos/godot_curso1_preview.mp4  ",
+    "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link  ",
     "descripcion": "Curso gratuito de Microsoft Word desde nivel básico hasta intermedio. Aprende a crear documentos profesionales, usar formatos avanzados, tablas, encabezados, índices, cartas, trabajos académicos y más. Ideal para estudiantes, docentes y público en general.",
     "gratis": true,
     "precio": "0.00",
@@ -52,8 +56,8 @@
   },
   {
     "nombre": "CURSO POWER POINT",
-    "imagen": "https://articles-img.sftcdn.net/auto-mapping-folder/sites/2/2021/05/C%C3%B3mo-usar-PowerPoint-paso-a-paso-1.jpg",
-    "link": "https://drive.google.com/drive/folders/1YkkzvCq-gFNuQ5i5wHilVLnDEPXhlTbc?usp=sharing",
+    "imagen": "https://articles-img.sftcdn.net/auto-mapping-folder/sites/2/2021/05/C%C3%B3mo-usar-PowerPoint-paso-a-paso-1.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1YkkzvCq-gFNuQ5i5wHilVLnDEPXhlTbc?usp=sharing  ",
     "descripcion": "Aprende a crear presentaciones dinámicas y profesionales con Microsoft PowerPoint. Incluye diseño de diapositivas, animaciones, transiciones y herramientas colaborativas.",
     "gratis": true,
     "precio": "0.00",
@@ -62,8 +66,8 @@
   },
   {
     "nombre": "CURSO PROYECT",
-    "imagen": "https://fernandoarciniega.com/wp-content/uploads/Elementos-de-la-pantalla-de-powerpoint-365-scaled.jpg",
-    "link": "https://drive.google.com/drive/folders/1hn-CjPmwWsnS4ZBjYrl3Ji2zFXxiVnMw?usp=sharing",
+    "imagen": "https://fernandoarciniega.com/wp-content/uploads/Elementos-de-la-pantalla-de-powerpoint-365-scaled.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1hn-CjPmwWsnS4ZBjYrl3Ji2zFXxiVnMw?usp=sharing  ",
     "descripcion": "Curso esencial de Microsoft Project para la gestión eficiente de proyectos. Aprende a planificar tareas, asignar recursos, gestionar cronogramas y generar diagramas de Gantt.",
     "gratis": true,
     "precio": "0.00",
@@ -72,8 +76,8 @@
   },
   {
     "nombre": "CURSO INGLES MUNDO MAGICO DISNEY",
-    "imagen": "https://i.ytimg.com/vi/admZagOvGX8/maxresdefault.jpg",
-    "link": "https://drive.google.com/drive/folders/1-QORzoxO8oYlkD2wu0ExRezwEb6yJzxv?usp=sharing",
+    "imagen": "https://i.ytimg.com/vi/admZagOvGX8/maxresdefault.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1-QORzoxO8oYlkD2wu0ExRezwEb6yJzxv?usp=sharing  ",
     "descripcion": "Curso de inglés basado en el universo mágico de Disney. Ideal para niños y principiantes que desean aprender vocabulario, pronunciación y gramática básica de forma divertida.",
     "gratis": true,
     "precio": "0.00",
@@ -82,8 +86,8 @@
   },
   {
     "nombre": "CURSOS DE INGLES DOMINA VERBOS",
-    "imagen": "https://m.smart.edu.co/wp-content/uploads/2024/05/Miniatura-domina-los-verbos-irregulares-pasado-presente-y-participio-scaled.jpg",
-    "link": "https://drive.google.com/drive/folders/1pqyzOecH8nw8_AWt3HLwfKCJSEaMCK-K?usp=sharing",
+    "imagen": "https://m.smart.edu.co/wp-content/uploads/2024/05/Miniatura-domina-los-verbos-irregulares-pasado-presente-y-participio-scaled.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1pqyzOecH8nw8_AWt3HLwfKCJSEaMCK-K?usp=sharing  ",
     "descripcion": "Domina los tiempos verbales en inglés con este curso completo. Incluye presente, pasado, futuro, condicional, perfectos y continuos, con ejercicios prácticos.",
     "gratis": true,
     "precio": "0.00",
@@ -92,8 +96,8 @@
   },
   {
     "nombre": "PORTADAS EDITABLES",
-    "imagen": "https://i.pinimg.com/736x/eb/67/83/eb67834a730c8a2f0781a4ef49122da8.jpg",
-    "link": "https://drive.google.com/drive/folders/1mQENyZ03dMWkjT4R0dEqGmpRzLn410cZ?usp=sharing",
+    "imagen": "https://i.pinimg.com/736x/eb/67/83/eb67834a730c8a2f0781a4ef49122da8.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1mQENyZ03dMWkjT4R0dEqGmpRzLn410cZ?usp=sharing  ",
     "descripcion": "Colección de más de 300 portadas editables para redes sociales, eventos y promociones. Listas para personalizar en Canva o Photoshop.",
     "gratis": false,
     "precio": "20.00",
@@ -102,28 +106,28 @@
   },
   {
     "nombre": "CUADROS EDITABLES",
-    "imagen": "https://i.ytimg.com/vi/L1pRQlEu1LY/maxresdefault.jpg",
-    "link": "https://drive.google.com/drive/folders/1fg_SpIlaJ59bH-jH91nT_pTjGfshuXop?usp=sharing",
+    "imagen": "https://i.ytimg.com/vi/L1pRQlEu1LY/maxresdefault.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1fg_SpIlaJ59bH-jH91nT_pTjGfshuXop?usp=sharing  ",
     "descripcion": "Plantillas editables de cuadros decorativos para redes sociales, catálogos y publicidad digital. Ideales para emprendedores y diseñadores gráficos.",
     "gratis": false,
-    "precio": "20.00",
+    "precio": "20.00 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "9983"
   },
   {
     "nombre": "MIL PLANOS PARA CARPINTERIA",
-    "imagen": "https://www.forestalmaderero.com/wp-content/uploads/2017/07/planos-para-construir-muebles-de-madera-2017-07-04.jpg",
-    "link": "https://drive.google.com/drive/folders/1n-UOaiy7aDtGXD82mb7slEzMCZMYByqL?usp=sharing",
+    "imagen": "https://www.forestalmaderero.com/wp-content/uploads/2017/07/planos-para-construir-muebles-de-madera-2017-07-04.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1n-UOaiy7aDtGXD82mb7slEzMCZMYByqL?usp=sharing  ",
     "descripcion": "Compilación de más de 1000 planos detallados para carpintería, muebles, juguetes y estructuras en madera. Incluye guías técnicas y listas de materiales.",
     "gratis": false,
-    "precio": "20.00",
+    "precio": "20.00 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "3332"
   },
   {
     "nombre": "CURSO FUERZA FIT",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQys0RbTZe8tke63kywoWkWoU_ClQ1yopVAoQ&s",
-    "link": "https://drive.google.com/drive/folders/1xslitf2swVmEUpceMhImeCTcmxrx3XWt?usp=sharing",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn  :ANd9GcQys0RbTZe8tke63kywoWkWoU_ClQ1yopVAoQ&s",
+    "link": "https://drive.google.com/drive/folders/1xslitf2swVmEUpceMhImeCTcmxrx3XWt?usp=sharing  ",
     "descripcion": "Programa completo de entrenamiento físico y nutrición para definir abdominales, perder grasa, ganar masa muscular y mantener un estilo de vida saludable. Incluye rutinas, planes alimenticios y consejos psicológicos.",
     "gratis": true,
     "precio": "0.00",
@@ -132,8 +136,8 @@
   },
   {
     "nombre": "CURSO ASISTENTE CONTABLE TRIBUTARIO",
-    "imagen": "https://i.ytimg.com/vi/03t1FYDmcpw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgqzbV1Kze9wKwdfAATm8nTI9CRg",
-    "link": "https://drive.google.com/drive/folders/1UlgB50GYvxPGLdSqxQimFmVTWc9HYz6J?usp=sharing",
+    "imagen": "https://i.ytimg.com/vi/03t1FYDmcpw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgqzbV1Kze9wKwdfAATm8nTI9CRg  ",
+    "link": "https://drive.google.com/drive/folders/1UlgB50GYvxPGLdSqxQimFmVTWc9HYz6J?usp=sharing  ",
     "descripcion": "Formación para asistentes contables en temas tributarios, declaraciones, impuestos y normativas fiscales vigentes. Ideal para emprendedores y profesionales del área.",
     "gratis": false,
     "precio": "10.00",
@@ -142,8 +146,8 @@
   },
   {
     "nombre": "CURSO DE ASISTENTE DE PLANILLAS",
-    "imagen": "https://cecaf.com.pe/wp-content/uploads/2021/04/asistente-de-planilla.jpg",
-    "link": "https://cecaf.com.pe/wp-content/uploads/2023/07/Asistente-Planilla-V1-02.png",
+    "imagen": "https://cecaf.com.pe/wp-content/uploads/2021/04/asistente-de-planilla.jpg  ",
+    "link": "https://cecaf.com.pe/wp-content/uploads/2023/07/Asistente-Planilla-V1-02.pnghttps  ://cecaf.com.pe/wp-content/uploads/2023/07/Asistente-Planilla-V1-02.png",
     "descripcion": "Aprende a gestionar nóminas, planillas de sueldos, descuentos legales y reportes laborales según normativa local. Herramientas prácticas para recursos humanos y contabilidad.",
     "gratis": false,
     "precio": "10.00",
@@ -152,48 +156,48 @@
   },
   {
     "nombre": "CURSO DE CONCILIACIONES BANCARIAS",
-    "imagen": "https://i.ytimg.com/vi/HE9WVs1cSMM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDoL_zBligXbWZagNDRbqEaQiiOug",
-    "link": "https://drive.google.com/drive/folders/1WeW1bCO2UohdXG_rJ9-88qcD7KQs-RrM?usp=sharing",
+    "imagen": "https://i.ytimg.com/vi/HE9WVs1cSMM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDoL_zBligXbWZagNDRbqEaQiiOug  ",
+    "link": "https://drive.google.com/drive/folders/1WeW1bCO2UohdXG_rJ9-88qcD7KQs-RrM?usp=sharing  ",
     "descripcion": "Curso práctico para realizar conciliaciones bancarias, detectar errores y ajustar saldos contables. Esencial para contadores y administradores financieros.",
     "gratis": false,
-    "precio": "10.00",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": ""
   },
   {
     "nombre": "CURSO CONTABILIDAD DESDE CERO",
-    "imagen": "https://i.ytimg.com/vi/4fQBqhXb6VY/maxresdefault.jpg",
-    "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing",
+    "imagen": "https://i.ytimg.com/vi/4fQBqhXb6VY/maxresdefault.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing  ",
     "descripcion": "Introducción completa a la contabilidad financiera: partidas dobles, libros contables, estados financieros y principios contables básicos.",
     "gratis": false,
-    "precio": "10.00",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "1112"
   },
   {
     "nombre": "CURSO DE CONTADOR DESDE CERO",
-    "imagen": "https://static.vecteezy.com/system/resources/previews/057/594/238/non_2x/accountant-analyzing-financial-data-on-a-laptop-while-reviewing-tax-documents-photo.jpg",
-    "link": "https://drive.google.com/drive/folders/1sucI_OqN5PHWKvbYW4jAypXowxV5gpLv?usp=sharing",
+    "imagen": "https://static.vecteezy.com/system/resources/previews/057/594/238/non_2x/accountant-analyzing-financial-data-on-a-laptop-while-reviewing-tax-documents-photo.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1sucI_OqN5PHWKvbYW4jAypXowxV5gpLv?usp=sharing  ",
     "descripcion": "Formación integral para convertirse en contador profesional. Cubre contabilidad general, costos, impuestos, auditoría y uso de software contable.",
     "gratis": false,
-    "precio": "10.00",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "1010"
   },
   {
     "nombre": "CURSO DE WORDPRESS",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxz8_I1AR6NW830R01bcEwAaugSvMgWpCyeA&s",
-    "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn  :ANd9GcQxz8_I1AR6NW830R01bcEwAaugSvMgWpCyeA&s",
+    "link": "https://drive.google.com/drive/folders/1Ndz7c_6VK9yIl0u_VZ10jg5rk8DPdO36?usp=sharing  ",
     "descripcion": "Aprende a crear y gestionar sitios web con WordPress: instalación, plugins, temas, SEO básico y e-commerce con WooCommerce.",
     "gratis": false,
-    "precio": "10.00",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "6638"
   },
   {
     "nombre": "CURSO DE CREACION DE VIDEOJUEGOS",
-    "imagen": "https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/67bccaf038fc0b2f0c93bb554dc39112/nsFIQTV4NYA3d5LJwXmu.jpg?q=70&w=500",
-    "link": "https://drive.google.com/drive/folders/1C8ASJmuX7ZPqkZw96wDR5hL25KvCfwB8?usp=sharing",
+    "imagen": "https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/67bccaf038fc0b2f0c93bb554dc39112/nsFIQTV4NYA3d5LJwXmu.jpg?q=70&w=500  ",
+    "link": "https://drive.google.com/drive/folders/1C8ASJmuX7ZPqkZw96wDR5hL25KvCfwB8?usp=sharing  ",
     "descripcion": "Introducción al desarrollo de videojuegos con motores como Unity o Godot. Conceptos de programación, diseño de niveles, arte y lógica de juego.",
     "gratis": true,
     "precio": "0.00",
@@ -202,18 +206,18 @@
   },
   {
     "nombre": "CURSO ADOBE PHOTOSHOP RETOQUES Y RETRATOS",
-    "imagen": "https://img.elegantflyer.com/templates/preview/back-to-school-poster-170858.jpg",
-    "link": "https://drive.google.com/file/d/1wuUrpUxG4WOcQrhqcLYAuuMOHybJwepy/view?usp=sharing",
+    "imagen": "https://img.elegantflyer.com/templates/preview/back-to-school-poster-170858.jpg  ",
+    "link": "https://drive.google.com/file/d/1wuUrpUxG4WOcQrhqcLYAuuMOHybJwepy/view?usp=sharing  ",
     "descripcion": "Curso especializado en retoque fotográfico y edición de retratos con Adobe Photoshop. Técnicas profesionales de corrección de color, piel, iluminación y composición.",
     "gratis": false,
-    "precio": "20.00",
+    "precio": "20.00 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "7738"
   },
   {
     "nombre": "CURSO ENSAMBLAJE DE COMPUTADORAS",
-    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/07/15/60f0664b1b36e.jpeg",
-    "link": "https://drive.google.com/drive/folders/1IcjCGJTMhg9B0YAr-A5GFStOP-sRcB_R?usp=sharing",
+    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/07/15/60f0664b1b36e.jpeg  ",
+    "link": "https://drive.google.com/drive/folders/1IcjCGJTMhg9B0YAr-A5GFStOP-sRcB_R?usp=sharing  ",
     "descripcion": "Aprende a armar, diagnosticar y reparar computadoras desde cero. Incluye selección de componentes, instalación de sistemas operativos y resolución de problemas comunes.",
     "gratis": true,
     "precio": "0.00",
@@ -222,8 +226,8 @@
   },
   {
     "nombre": "CURSO COMPLETO DE MICROSOFT WORD (Avanzado)",
-    "imagen": "https://i.ytimg.com/vi/uBN2BkGNdFA/hqdefault.jpg",
-    "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link",
+    "imagen": "https://i.ytimg.com/vi/uBN2BkGNdFA/hqdefault.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1AKnR-YhBpMbvzPD-pDMSBFQOAUop2HGz?usp=drive_link  ",
     "descripcion": "Versión avanzada del curso de Word. Profundiza en estilos, plantillas, macros, combinación de correspondencia y automatización de documentos complejos.",
     "gratis": true,
     "precio": "0.00",
@@ -232,8 +236,8 @@
   },
   {
     "nombre": "CURSO DE MEMORIA ÁGIL Y CONCENTRACIÓN",
-    "imagen": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&h=600&fit=crop",
-    "link": "https://drive.google.com/drive/folders/1XhLD-nJcyxZ5UtAUxLVHTLqOH12X9tS5?usp=drive_link",
+    "imagen": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&h=600&fit=crop  ",
+    "link": "https://drive.google.com/drive/folders/1XhLD-nJcyxZ5UtAUxLVHTLqOH12X9tS5?usp=drive_link  ",
     "descripcion": "Curso gratuito enfocado en mejorar la memoria, concentración y agilidad mental. Incluye ejercicios prácticos, técnicas de memorización, entrenamiento cognitivo y métodos para estudiar y aprender más rápido.",
     "gratis": true,
     "precio": "0.00",
@@ -242,31 +246,31 @@
   },
   {
     "nombre": "COLECCIÓN COMPLETA DE CONDORITO",
-    "imagen": "https://www.lateja.cr/resizer/v2/M2N2SDTEBRBFTNDFJTB4YIQT5I.jpg?smart=true&auth=c6f2b30695a4ac8ded326b7a3b31c39e5ee91aafaf1fd9498f79deefaba72582&width=900&height=900",
-    "link": "https://drive.google.com/drive/folders/10ptJPmyPA8SHwizMWh6uxqQXjgzVsAj0?usp=sharing",
+    "imagen": "https://www.lateja.cr/resizer/v2/M2N2SDTEBRBFTNDFJTB4YIQT5I.jpg?smart=true&auth=c6f2b30695a4ac8ded326b7a3b31c39e5ee91aafaf1fd9498f79deefaba72582&width=900&height=900  ",
+    "link": "https://drive.google.com/drive/folders/10ptJPmyPA8SHwizMWh6uxqQXjgzVsAj0?usp=sharing  ",
     "descripcion": "Colección gratuita de revistas clásicas de Condorito en formato digital. Humor latinoamericano, entretenimiento sano y material histórico ideal para todas las edades.",
     "gratis": false,
-    "precio": "10.00",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "2015"
   },
   {
     "nombre": "CURSO DE GUITARRA PARA PRINCIPIANTES",
-    "imagen": "https://escuelamusicalonline.com/wp-content/uploads/mejores-cursos-de-guitarra-online.jpg",
-    "link": "https://1024terabox.com/s/1vdJZApI7PUXLSAwUx-7eug",
+    "imagen": "https://escuelamusicalonline.com/wp-content/uploads/mejores-cursos-de-guitarra-online.jpg  ",
+    "link": "https://1024terabox.com/s/1vdJZApI7PUXLSAwUx-7eug  ",
     "descripcion": "Aprende guitarra desde cero de forma fácil y práctica. Domina acordes, ritmos y técnicas esenciales para tocar tus primeras canciones rápidamente, sin conocimientos previos y con lecciones claras paso a paso.",
     "gratis": false,
-    "precio": "10.00",
+    "precio": "10 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "9237"
   },
   {
     "nombre": "CURSO DE EXCEL",
-    "imagen": "https://ovacen.com/wp-content/uploads/2018/07/curso-de-excel.jpg",
-    "link": "https://drive.google.com/drive/folders/1BRsj_H5WoG5DC66vGjehg8rmbociYHjv?usp=drive_link",
+    "imagen": "https://ovacen.com/wp-content/uploads/2018/07/curso-de-excel.jpg  ",
+    "link": "https://drive.google.com/drive/folders/1BRsj_H5WoG5DC66vGjehg8rmbociYHjv?usp=drive_link  ",
     "descripcion": "Curso completo de Microsoft Excel desde nivel básico hasta intermedio. Aprende fórmulas, funciones, tablas dinámicas, gráficos, automatización básica y uso profesional para estudios y trabajo.",
     "gratis": false,
-    "precio": "14.00",
+    "precio": "14 bs",
     "ContactoDistribuidor": "59161829898",
     "codigo_autorizacion": "9012"
   }
