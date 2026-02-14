@@ -1,34 +1,35 @@
 [
-   {
+  {
+  "nombre": "EMEQ SISMOLOGIA",
+  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFt915DVNAmut3Ssj85VmwF8915SG5f4pgA&s",
+  "link": "https://drive.google.com/drive/folders/1mCt1YPXZWtPCzGR1cgBD_cZN_E45N6ct?fbclid=IwdGRjcAP3Lq1jbGNrA_cuqGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHg36tHh__75W4pNAo_0xbTpIOkPBSyAdmsBeAcmjlo2058Z90MWMj6WpJbgZ_aem_IWvezcuj5RHiiUYJX0Wd7g",
+  "descripcion": "Curso completo de Sismología aplicada: comprende los fundamentos científicos de los terremotos, ondas sísmicas, placas tectónicas y riesgo sísmico en Bolivia. Aprende a interpretar sismogramas, identificar zonas de peligro sísmico (especialmente en el Altiplano y valles bolivianos), y aplicar medidas de prevención en hogares y escuelas. Incluye casos reales de sismos en Sudamérica, protocolos de evacuación y cómo actuar antes, durante y después de un sismo. Ideal para estudiantes de geología, ingeniería civil, docentes y comunidades en zonas sísmicas como Oruro, Potosí y La Paz.",
+  "gratis": true,
+  "precio": "0.00",
+  "ContactoDistribuidor": "",
+  "codigo_autorizacion": ""
+  },
+  {
     "nombre": "INGLES SIN BARRERAS AUDIO/LIBRO",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn  :ANd9GcREBQkSTNGR--q-vpG6bVLmR7e3NSNisYSHhg&s",
-    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwdGRjcAP3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ  ",
-    "descripcion": "Inglés sin Barreras es un reconocido curso diseñado para hispanohablantes que desean aprender inglés americano de forma autodidacta, enfocado en situaciones de la vida cotidiana y laboral. Históricamente, el método incluía videos, audios y manuales (DVDs/CDs) para aprender desde un nivel principiante hasta intermedio, con un enfoque en la repetición y el contexto conversacional. ",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBQkSTNGR--q-vpG6bVLmR7e3NSNisYSHhg&s",
+    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwAR3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ",
+    "descripcion": "Inglés sin Barreras es un reconocido curso diseñado para hispanohablantes que desean aprender inglés americano de forma autodidacta, enfocado en situaciones de la vida cotidiana y laboral. Históricamente, el método incluía videos, audios y manuales (DVDs/CDs) para aprender desde un nivel principiante hasta intermedio, con un enfoque en la repetición y el contexto conversacional.",
     "gratis": true,
     "precio": "0.00",
     "ContactoDistribuidor": "",
     "codigo_autorizacion": ""
   },
-   {"nombre": "APRENDE EXCEL FACIL",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn  :ANd9GcSNhCsHYefRXgYM7jAICgWZdS2rhH9px_YgWg&s",
-    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwdGRjcAP3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ  ",
-    "descripcion": "
-Clase introductoria
-Capítulo 1 Generalidades del programa Excel
-Capítulo 2 Ingresos de datos ,formatos y estructura de las funciones
-Capítulo 3 Ordenar y filtrar los datos de excel
-Capítulo 4 Profundizando en el manejo de funciones
-Capítulo 5 Gráficos en Excel
-Capítulo 6 Buenas practicas de impresión
-Capítulo7 Tratamiento de fecha , horas y datos de textos y plantillas
-Capítulo Bono ( El poder los MACROS)
-Despedida",
+  {
+    "nombre": "APRENDE EXCEL FACIL",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhCsHYefRXgYM7jAICgWZdS2rhH9px_YgWg&s",
+    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwAR3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ",
+    "descripcion": "Clase introductoria\nCapítulo 1 Generalidades del programa Excel\nCapítulo 2 Ingresos de datos, formatos y estructura de las funciones\nCapítulo 3 Ordenar y filtrar los datos de excel\nCapítulo 4 Profundizando en el manejo de funciones\nCapítulo 5 Gráficos en Excel\nCapítulo 6 Buenas practicas de impresión\nCapítulo 7 Tratamiento de fecha, horas y datos de textos y plantillas\nCapítulo Bono (El poder de los MACROS)\nDespedida",
     "gratis": true,
     "precio": "0.00",
     "ContactoDistribuidor": "",
     "codigo_autorizacion": ""
-  },
-{"nombre": "COLECCION DE PELICULAS",
+   },
+   {"nombre": "COLECCION DE PELICULAS",
     "imagen": "https://aldianews.com/sites/default/files/2024-12/COLLAGE%20PEL%C3%8DCULAS.jpg  ",
     "link": "https://drive.google.com/drive/mobile/folders/1YWe3oAUVgj1d4ElzKSt6LMITgjz1oiAZ?usp=sharing&fbclid=IwdGRjcAPof2VjbGNrA-h-YWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHu1QBSJV6FXB-O85VBqHRqfPuk9QdCttrVizqSVF5t04YgRtx8PFHiFtrI-W_aem_Wf_y5oR4YBmSadHuRMh5zA  ",
     "descripcion": "🎁P3LICULAS Y SERlES GRATIS POR G00GLE DRlVE
