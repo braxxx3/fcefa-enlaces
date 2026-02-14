@@ -99,6 +99,22 @@
       "color_texto": "#FFFFFF"
     },
     {
+      "nombre": "DESCARGA RAPIDA TERABOX",
+      "url": "https://iteraplay.com/terabox-downloader/",
+      "font_size": 28,
+      "altura": 40,
+      "color_fondo": "#4285F4",
+      "color_texto": "#111111"
+    },
+    {
+      "nombre": "QUITAR MARCA DE AGUA SORA",
+      "url": "https://dyysy.com/",
+      "font_size": 28,
+      "altura": 40,
+      "color_fondo": "#4285F4",
+      "color_texto": "#111111"
+    },
+    {
       "nombre": "CONTACTANOS AL WHATSAPP",
       "url": "https://wa.me/qr/BNFFC2RRH6HNC1",
       "font_size": 28,
