@@ -1,33 +1,4 @@
 [
-  {
-  "nombre": "APRENDE JAPONES CON LIBROS",
-  "imagen": "https://m.media-amazon.com/images/I/71Pe6y6D0DL._AC_UF1000,1000_QL80_.jpg",
-  "link": "https://drive.google.com/drive/folders/1SPfu2V286kim2f0Kv_4R2f7SXb6S5ZqR?usp=drive_link",
-  "descripcion": "Este curso está diseñado para que aprendas japonés paso a paso, incluso si empiezas desde cero.
-
-🎌 Con un método práctico y estructurado, dominarás:
-
-✅ Hiragana y Katakana
-✅ Kanji esenciales
-✅ Gramática básica e intermedia
-✅ Conversaciones reales
-✅ Pronunciación correcta
-✅ Lectura y escritura
-
-📖 Incluye libros digitales y material descargable para que estudies a tu ritmo, con ejercicios prácticos y ejemplos reales.
-
-💡 Ideal para:
-
-Fans del anime y manga
-
-Personas que quieren viajar a Japón
-
-Estudiantes que desean nuevas oportunidades laborales",
-  "gratis": false,
-  "precio": "10.00",
-  "ContactoDistribuidor": "59161829898",
-  "codigo_autorizacion": "8182"
-},
 {
   "nombre": "APRENDE JAPONES CON LIBROS",
   "imagen": "https://m.media-amazon.com/images/I/71Pe6y6D0DL._AC_UF1000,1000_QL80_.jpg",
@@ -79,7 +50,7 @@ Estudiantes que desean nuevas oportunidades laborales",
 },
 {
   "nombre": "AUTOCAD DE PRINCIPIANTE A AVANZADO 2019",
-  "imagen": "https://www.autodesk.com/blogs/autocad/wp-content/uploads/sites/35/2020/04/AutoCAD_2019_2_fpyhn8.jpg",
+  "imagen": "https://static.sdcpublications.com/images/covers/500/9781630571825.jpg",
   "link": "https://drive.google.com/drive/folders/1GjLiLQBjemaTXvtZTTxbKR2TwetQGQyt?fbclid=IwdGRjcAP3LjBjbGNrA_cuK2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHjWwBaS4ZIaRwXZLq6n3JlVk6x40M1FJ0zroXSxa0Km7G_Z55dBun4pDbl-Z_aem_3lYoakRiZlM2gxZ-XuhtPw",
   "descripcion": "Curso completo de AutoCAD 2019 desde cero: domina el software líder en diseño técnico y dibujo asistido por computadora. Aprende a crear planos arquitectónicos, diseños mecánicos, croquis de ingeniería y planos topográficos con herramientas profesionales. Incluye: interfaz básica, comandos esenciales (línea, círculo, offset, trim), acotación técnica, capas, bloques reutilizables, impresión a escala y exportación a PDF/DWG. Material 100% en español con ejercicios prácticos basados en proyectos reales de construcción boliviana (casas altoandinas, planos municipales, infraestructura rural). Ideal para estudiantes de arquitectura, ingeniería civil, topografía y emprendedores de Oruro que desean ofrecer servicios de diseño técnico.",
   "gratis": true,
