@@ -1,5 +1,24 @@
 [
-  {"nombre": "COLECCION DE PELICULAS",
+   {"nombre": "APRENDE EXCEL FACIL",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhCsHYefRXgYM7jAICgWZdS2rhH9px_YgWg&s",
+    "link": "https://drive.google.com/drive/folders/1t4tyAWdSOZd9k4LNWnHntukKyMYag_9S?fbclid=IwdGRjcAP3PBdjbGNrA_c7m2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHsJXtQDNOg5WceI6_yitoO3TNJGeeRxYPDAzeUUajrLU3FgpSpQqX7ObtddC_aem_imNnlt2whtVqEX2vd2mFOQ",
+    "descripcion": "
+Clase introductoria
+Capítulo 1 Generalidades del programa Excel
+Capítulo 2 Ingresos de datos ,formatos y estructura de las funciones
+Capítulo 3 Ordenar y filtrar los datos de excel
+Capítulo 4 Profundizando en el manejo de funciones
+Capítulo 5 Gráficos en Excel
+Capítulo 6 Buenas practicas de impresión
+Capítulo7 Tratamiento de fecha , horas y datos de textos y plantillas
+Capítulo Bono ( El poder los MACROS)
+Despedida",
+    "gratis": true,
+    "precio": "0.00",
+    "ContactoDistribuidor": "",
+    "codigo_autorizacion": ""
+  },
+{"nombre": "COLECCION DE PELICULAS",
     "imagen": "https://aldianews.com/sites/default/files/2024-12/COLLAGE%20PEL%C3%8DCULAS.jpg",
     "link": "https://drive.google.com/drive/mobile/folders/1YWe3oAUVgj1d4ElzKSt6LMITgjz1oiAZ?usp=sharing&fbclid=IwdGRjcAPof2VjbGNrA-h-YWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHu1QBSJV6FXB-O85VBqHRqfPuk9QdCttrVizqSVF5t04YgRtx8PFHiFtrI-W_aem_Wf_y5oR4YBmSadHuRMh5zA",
     "descripcion": "🎁P3LICULAS Y SERlES GRATIS POR G00GLE DRlVE
@@ -13,7 +32,8 @@ Acceso a 2TB gratis
     "precio": "0.00",
     "ContactoDistribuidor": "",
     "codigo_autorizacion": ""
-  },{
+  },
+  {
     "nombre": "CURSO COMPLETO DE MICROSOFT WORD (Básico-Intermedio)",
     "imagen": "https://i.blogs.es/046381/word/1366_521.jpg",
     "video": "https://raw.githubusercontent.com/braxxx3/fcefa-enlaces/main/videos/godot_curso1_preview.mp4",
