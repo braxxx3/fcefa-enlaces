@@ -32,6 +32,7 @@
     { "nombre": "Listen to YouTube", "url": "https://www.listentoyoutube.com", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
 
     { "nombre": "Pixlr Editor", "url": "https://pixlr.com", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
+    { "nombre": "desn", "url": "https://dessi.co/undress", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
     { "nombre": "Pexels", "url": "https://www.pexels.com", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
     { "nombre": "Pixabay", "url": "https://pixabay.com", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
     { "nombre": "Freepik", "url": "https://www.freepik.com", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
