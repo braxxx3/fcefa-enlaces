@@ -35,14 +35,6 @@
       "color_texto": "#FFFFFF"
     },
     {
-      "nombre": "UNIVERSIDAD UTO",
-      "url": "https://www.uto.edu.bo/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#388E3C",
-      "color_texto": "#FFFFFF"
-    },
-    {
       "nombre": "UNIVERSIDAD UDABOL",
       "url": "https://www.udabol.edu.bo/",
       "font_size": 28,
