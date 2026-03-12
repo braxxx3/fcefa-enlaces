@@ -329,5 +329,15 @@
 		"link": "https://youtu.be/uvbpFJQYkBY",
 		"nombre": "la saga de majin buu",
 		"precio": "0.00"
+	},
+	{
+		"ContactoDistribuidor": "",
+		"codigo_autorizacion": "3011",
+		"descripcion": "Majin Buu Saga es el cuarto arco principal de Dragon Ball Z, \nconocido también como el \"Arc del Demonio Boo\".  \nApareció por primera vez en el manga en 1994 y \nse emitió en Japón entre 1994 y 1995, con su \nlanzamiento en EE.UU. en 2001–2002. Esta saga sigue a Babidi, \nhijo del mago Bibidi, \nquien revive a Majin Buu, un ser creado para destruir y aniquilar, y lo envía a la Tierra para cumplir su misión.",
+		"gratis": true,
+		"imagen": "https://imgs.search.brave.com/nM8m1dAWFkQrIvBQvLezYJWXXBuYVDwOo4craQMpJFw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMy56/ZXJvY2hhbi5uZXQv/MjQwLzEyLzQwLzQy/Mzk1MTIuYXZpZg",
+		"link": "https://youtu.be/uvbpFJQYkBY",
+		"nombre": "la saaga de majin buu",
+		"precio": "0.00"
 	}
 ]
