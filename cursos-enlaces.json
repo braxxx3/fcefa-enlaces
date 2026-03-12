@@ -1,6 +1,16 @@
 [
 	{
 		"ContactoDistribuidor": "",
+		"codigo_autorizacion": "3848",
+		"descripcion": "jhoasjdsn",
+		"gratis": true,
+		"imagen": "https://imgs.search.brave.com/q9EHY5P0ULQVEZLtty6-VaRFfThZMBVSVM_aMRXDLO0/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/c3ByaXRlcnMtcmVz/b3VyY2UuY29tL21l/ZGlhL2F2YXRhcnMv/My8yMDI3OC5qcGc_/dXBkYXRlZD0xNzU1/NDcxNjgx",
+		"link": "https://youtu.be/CXhjVIKTEuA",
+		"nombre": "Kevin",
+		"precio": "0.00"
+	},
+	{
+		"ContactoDistribuidor": "",
 		"codigo_autorizacion": "6867",
 		"descripcion": "Saga de Broly (Dragon Ball Super)\nAmbientada después de la Saga de la Supervivencia Universal, esta saga sigue a Goku y Vegeta en su enfrentamiento con Broly, un poderoso Saiyajin cuya historia se remonta a la destrucción del Planeta Vegeta. Broly fue exiliado al Planeta Vampa por el Rey Vegeta debido a su inusual poder, y su padre, Paragus, juró venganza. Cuarenta y un años después, Broly y Paragus son rescatados por soldados de Freezer, quienes los reclutan para enfrentarse a Goku y Vegeta. La batalla final se desarrolla en la Tierra, donde Broly, en su forma Iracunda, lucha contra los héroes, aunque al final se revela que es un guerrero con buena intención.",
 		"gratis": true,
