@@ -30,6 +30,9 @@
     { "nombre": "Pointer Pointer", "url": "https://pointerpointer.com", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
     { "nombre": "Hacker Typer", "url": "https://hackertyper.com", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
     { "nombre": "Listen to YouTube", "url": "https://www.listentoyoutube.com", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
+    { "nombre": "pdf compresor", "url": "https://www.ilovepdf.com/compress_pdf", "#455A64", "color_texto": "#FFFFFF" },
+    { "nombre": "pdf proteger con contraseña", "url": "https://www.ilovepdf.com/protect-pdf", "#455A64", "color_texto": "#FFFFFF" },
+    { "nombre": "pdf desbloquear contraseña", "url": "https://www.ilovepdf.com/unlock_pdf", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
 
     { "nombre": "Pixlr Editor", "url": "https://pixlr.com", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
     { "nombre": "desn", "url": "https://dessi.co/undress", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
