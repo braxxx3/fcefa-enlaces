@@ -2,7 +2,6 @@
   "mensaje": "HERRAMIENTAS Y PAGINAS UTILES DE INTERNET",
   "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
   "enlaces": [
-
     { "nombre": "WIFI CONTA-PUES", "url": "https://conta-pues.web.app/#/informate/wifi-conta-pues", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
     { "nombre": "CALCULADORA DE NOTAS FCEFA", "url": "https://conta-pues.web.app/#/", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
     { "nombre": "DESCARGA RAPIDA TERABOX", "url": "https://iteraplay.com/terabox-downloader/", "font_size": 28, "altura": 55, "color_fondo": "#1565C0", "color_texto": "#FFFFFF" },
@@ -30,8 +29,8 @@
     { "nombre": "Pointer Pointer", "url": "https://pointerpointer.com", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
     { "nombre": "Hacker Typer", "url": "https://hackertyper.com", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
     { "nombre": "Listen to YouTube", "url": "https://www.listentoyoutube.com", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
-    { "nombre": "pdf compresor", "url": "https://www.ilovepdf.com/compress_pdf", "#455A64", "color_texto": "#FFFFFF" },
-    { "nombre": "pdf proteger con contraseña", "url": "https://www.ilovepdf.com/protect-pdf", "#455A64", "color_texto": "#FFFFFF" },
+    { "nombre": "pdf compresor", "url": "https://www.ilovepdf.com/compress_pdf", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
+    { "nombre": "pdf proteger con contraseña", "url": "https://www.ilovepdf.com/protect-pdf", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
     { "nombre": "pdf desbloquear contraseña", "url": "https://www.ilovepdf.com/unlock_pdf", "font_size": 26, "altura": 55, "color_fondo": "#455A64", "color_texto": "#FFFFFF" },
 
     { "nombre": "Pixlr Editor", "url": "https://pixlr.com", "font_size": 26, "altura": 55, "color_fondo": "#00897B", "color_texto": "#FFFFFF" },
