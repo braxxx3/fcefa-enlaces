@@ -19,8 +19,8 @@
   ],
   "enlaces": [    
     {
-      "nombre": "F.C.E.F.A.",
-      "url": "https://www.fcefa.edu.bo/index.php?view=featured",
+      "nombre": "MODLE F.C.E.F.A.",
+      "url": "https://moodle.fcefa.edu.bo/login/index.php",
       "font_size": 28,
       "altura": 55,
       "color_fondo": "#FF0000",
