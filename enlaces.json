@@ -19,46 +19,6 @@
   ],
   "enlaces": [    
     {
-      "nombre": "CENTRO ESTUDIANTES CONTA-PUES",
-      "url": "https://conta-pues.web.app/#/CE-Conta-Pues",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#025E96",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "UNIVERSIDAD SAVIO DOMING",
-      "url": "https://www.upds.edu.bo/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#0277BD",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "UNIVERSIDAD UDABOL",
-      "url": "https://www.udabol.edu.bo/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#D32F2F",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "UNIVERSIDAD UPAL",
-      "url": "https://www.upal.edu.bo/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#7B1FA2",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "UNIVERSIDAD UNIOR",
-      "url": "https://www.unior.edu.bo/",
-      "font_size": 28,
-      "altura": 55,
-      "color_fondo": "#FF8F00",
-      "color_texto": "#FFFFFF"
-    },
-    {
       "nombre": "F.C.E.F.A.",
       "url": "https://www.fcefa.edu.bo/index.php?view=featured",
       "font_size": 28,
@@ -75,39 +35,8 @@
       "color_texto": "#FFFFFF"
     },
     {
-      "nombre": "F.N.I. DRAGON",
-      "url": "https://registrofni.uto.edu.bo/",
-      "font_size": 28,
-      "altura": 40,
-      "color_fondo": "#4285F4",
-      "color_texto": "#111111"
-    },
-    {
-      "nombre": "AYUDANOS A MEJORAR",
-      "url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767441946/Queremos_expresar_nuestro_m%C3%A1s_sincero_agradecimiento_a_todos_aquellos_que_han_contribuido_con_sus_generosas_donaciones_para_el_desarrollo_y_mejora_de_la_aplicaci%C3%B3n_ULink._Su_apoyo_no_solo_refleja_fetp4q.png",
-      "font_size": 28,
-      "altura": 40,
-      "color_fondo": "#000000",
-      "color_texto": "#FFFFFF"
-    },
-    {
-      "nombre": "DESCARGA RAPIDA TERABOX",
-      "url": "https://iteraplay.com/terabox-downloader/",
-      "font_size": 28,
-      "altura": 40,
-      "color_fondo": "#4285F4",
-      "color_texto": "#111111"
-    },
-    {
-      "nombre": "QUITAR MARCA DE AGUA SORA",
-      "url": "https://dyysy.com/",
-      "font_size": 28,
-      "altura": 40,
-      "color_fondo": "#4285F4",
-      "color_texto": "#111111"
-    },
-    {
-      "nombre": "CONTACTANOS AL WHATSAPP",
+      "nombre": "CONTACTANOS AL WHATSAPP PARA SUBIR
+      CURSO A LA APLICACION",
       "url": "https://wa.me/qr/BNFFC2RRH6HNC1",
       "font_size": 28,
       "altura": 55,
