@@ -1,6 +1,16 @@
 [
 	{
 		"ContactoDistribuidor": "61829898",
+		"codigo_autorizacion": "6917",
+		"descripcion": "GUÍA DE ESTUDIO UNIVERSITARIA\nMERCADOTECNIA 1\nLic. Adm. Gonzalo Douglas Guzmán Gutiérrez\n✨ Material diseñado para estudiantes universitarios - Resumen práctico y efectivo ✨\nTEMA\nCONCEPTO CLAVE\n1️ Marketing Moderno\nProceso de crear valor e intercambios satisfactorios para clientes y empresas.\n2️ Ambiente de MKT\nMicroambiente (actores cercanos) + Macroambiente (fuerzas externas) que impactan la estrategia.\n3️ Comportamiento del Consumidor\nFactores culturales, sociales, personales y psicológicos que influyen en la decisión de compra.\n4️Segmentación\nDividir el mercado en grupos homogéneos: geográfica, demográfica, psicográfica y conductual.\n5️ Investigación de Mercados\nHerramienta científica para recopilar datos y tomar decisiones informadas.\n6️ Producto y Marca\nBien/servicio + identidad que genera valor, diferenciación y lealtad.\n7️ Precios\nEstrategias: costos, valor, competencia, penetración o descremado.\n8️ Distribución\nCanales (directo/indirecto) para llevar el producto al cliente final.",
+		"gratis": false,
+		"imagen": "https://imgs.search.brave.com/7Re7LqqjfaOcDwwkwmlKewsilE8sdA4F9WH66t0153c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91dnAu/bXgvdXZwYmxvZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/NC9tZXJjYS5qcGc",
+		"link": "https://drive.google.com/drive/folders/1UcQ5h7RJcDcWpX0mBiRC5yptMki_PWGi?usp=sharing",
+		"nombre": "MERCADOTECNIA 1",
+		"precio": "10 Bs"
+	},
+	{
+		"ContactoDistribuidor": "61829898",
 		"codigo_autorizacion": "4843",
 		"descripcion": "Manga de dragon ball Super",
 		"gratis": false,
