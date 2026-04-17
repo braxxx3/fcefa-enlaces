@@ -1,30 +1,21 @@
 {
-  "mensaje": "APPS PREMIUM",
+  "mensaje": "APPS PREMIUM DE ULINK 2026 PREMIUN",
   "fondo_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459468/trabajando-juntos_nhpbpb.png",
 
   "enlaces": [
     {
-      "nombre": "ANIMOHUB",
-      "url": "https://drive.google.com/file/d/18LwH2Jaw0n3CyeS2POuJ62OUIwjUTPiy/view?usp=sharing",
-      "font_size": 32,
-      "altura": 70,
-      "color_fondo": "#1976D2",
-      "color_texto": "#FFFFFF",
-      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/app-icon-generic-blue_qw3k9m.png"
-    },
-    {
-      "nombre": "Ludo Club Fun Dice Game",
-      "url": "https://drive.google.com/file/d/1pZfcTIS36Pp8jFbuyCCFUW0f9IG9GcII/view?usp=sharing",
-      "font_size": 30,
+      "nombre": "XUPER TV",
+      "url": "https://drive.google.com/file/d/1RwRi-YwZrhfc6wlkYguFcaDNJbAEhLzp/view?usp=sharing",
+      "font_size": 24,
       "altura": 70,
       "color_fondo": "#1976D2",
       "color_texto": "#FFFFFF",
       "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/ludo-game-icon_y2n4xp.png"
     },
     {
-      "nombre": "Perplexity (Premium)",
-      "url": "https://drive.google.com/file/d/1_gCf_VmpiwKagifg3nQVWazzLq9_w4RN/view?usp=sharing",
-      "font_size": 32,
+      "nombre": "EPSON PRINT",
+      "url": "https://drive.google.com/file/d/1dEeuJM_ULzXfbEgVB4NUyMvk3Bs8hgqQ/view?usp=sharing",
+      "font_size": 24,
       "altura": 70,
       "color_fondo": "#1976D2",
       "color_texto": "#FFFFFF",
@@ -33,43 +24,16 @@
     {
       "nombre": "Watermark Maker (Premium)",
       "url": "https://drive.google.com/file/d/1gQ6O0_9SJB93BsbPQX6Yp87vTw94WUOE/view?usp=sharing",
-      "font_size": 30,
+      "font_size": 24,
       "altura": 70,
       "color_fondo": "#1976D2",
       "color_texto": "#FFFFFF",
       "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/watermark-app-icon_t5z9qr.png"
     },
     {
-      "nombre": "microG Services ",
-      "url": "https://drive.google.com/file/d/1wugwJv8dYccEzjuhtlmIxl785-eFTRr-/view?usp=sharing",
-      "font_size": 30,
-      "altura": 70,
-      "color_fondo": "#1976D2",
-      "color_texto": "#FFFFFF",
-      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/microg-services-icon_k3p7mn.png"
-    },
-    {
-      "nombre": "YouTube(Premium)",
-      "url": "https://drive.google.com/file/d/19TFsKbNFt_Q_FrCXQsp8dbKKnUIqvvxx/view?usp=sharing",
-      "font_size": 32,
-      "altura": 70,
-      "color_fondo": "#1976D2",
-      "color_texto": "#FFFFFF",
-      "imagen_url": "https://res.cloudinary.com/dbcgcuhbx/image/upload/v1767459469/youtube-premium-icon_x9r2kl.png"
-    },
-    {
-      "nombre": "SNAPTUBE",
-      "url": "https://drive.google.com/file/d/1OELA_l-yt6oTiWzhRS-uJSfkB9HfwMHj/view?usp=sharing",
-      "font_size": 32,
-      "altura": 70,
-      "color_fondo": "#1976D2",
-      "color_texto": "#FFFFFF",
-      "imagen_url": "https://imgs.search.brave.com/HFYuNvO_wc51ThbWLg2HdR2tPf7vwImfPo66ak_OyTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zbmFw/dHViZXMub25sL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzAx/L3NuYXB0dWJlLnBu/Zw"
-    },
-    {
       "nombre": "NIAGARA LAUCHER PREMIUN",
       "url": "https://drive.google.com/file/d/1OELA_l-yt6oTiWzhRS-uJSfkB9HfwMHj/view?usp=sharing",
-      "font_size": 30,
+      "font_size": 24,
       "altura": 70,
       "color_fondo": "#1976D2",
       "color_texto": "#FFFFFF",
