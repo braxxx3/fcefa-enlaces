@@ -1,1 +1,9 @@
-
+[
+  {
+    "user_id": "123",
+    "username": "usuario1",
+    "email": "correo@example.com",
+    "password_hash": "sha256_del_password",
+    "cursos_comprados": ["Curso A", "Curso B"]
+  }
+]
