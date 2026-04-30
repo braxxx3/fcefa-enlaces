@@ -1,6 +1,16 @@
 [
 	{
 		"ContactoDistribuidor": "",
+		"codigo_autorizacion": "7825",
+		"descripcion": "LIBROS Y GUIAS\nPARA TU ESTUDIO EN LA UNIVERSIDAD\nEN DERECHO",
+		"gratis": true,
+		"imagen": "https://imgs.search.brave.com/0q9UQG472476pKKT5m_F7rsUX9L0wVL497qdJWb0Piw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMy/ODYwODk1OC9lcy9m/b3RvL2Fib2dhZG9z/LW8tanVlY2VzLXF1/ZS10cmFiYWphbi1w/YXJhLWZpcm1hci1k/b2N1bWVudG9zLWlt/cG9ydGFudGVzLWFi/b2dhZG9zLXktbGV5/ZXMtY29uY2VwdG9z/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1MOUVveGlHUFd2/cG5zdFN1N1RYbGcx/b3pRZVNLdEg2am93/c1JpdjZuMm1vPQ",
+		"link": "https://drive.google.com/drive/folders/122bKQhJAn80NZvSlQSKTmU7_QS4aMThZ",
+		"nombre": "DERECHO",
+		"precio": "0.00"
+	},
+	{
+		"ContactoDistribuidor": "",
 		"codigo_autorizacion": "2648",
 		"descripcion": "5000 ARCHIVOS EXCEL MODELOS\nDE INVENTARIOS, GESTION PRODUCCION, GESSTION\nCOBRANZAS, MARKETING, PRESUSPUESTOS ETC.",
 		"gratis": true,
