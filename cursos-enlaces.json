@@ -1,6 +1,16 @@
 [
 	{
 		"ContactoDistribuidor": "",
+		"codigo_autorizacion": "2648",
+		"descripcion": "5000 ARCHIVOS EXCEL MODELOS\nDE INVENTARIOS, GESTION PRODUCCION, GESSTION\nCOBRANZAS, MARKETING, PRESUSPUESTOS ETC.",
+		"gratis": true,
+		"imagen": "https://imgs.search.brave.com/VyQQGLZMueExwZ5EE0LWTQ5e8J-tEpSJ3oBPeqTsdXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzg4LzI1LzYy/LzM2MF9GXzI4ODI1/NjI1OV9zRUU3ZXFv/bnVXTzBEOW5zUldI/NmptcW50NGcxSGdq/MC5qcGc",
+		"link": "https://drive.google.com/drive/folders/1ApeFY1-klrwGVnz4TxxowEVdsObRVO_P",
+		"nombre": "5000 MODELOS EXCEL",
+		"precio": "0.00"
+	},
+	{
+		"ContactoDistribuidor": "",
 		"codigo_autorizacion": "4972",
 		"descripcion": "dragon ball moro",
 		"gratis": true,
