@@ -14,7 +14,7 @@
     {
       "nombre": "TIENDA NOVA CHALLAPATA",
       "url": "https://tiendanova.ulinkdev.uk",
-      "font_size": 28,
+      "font_size": 20,
       "altura": 55,
       "color_fondo": "#4285F4",
       "color_texto": "#FFFFFF"
