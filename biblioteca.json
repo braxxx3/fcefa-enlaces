@@ -9,7 +9,7 @@
     {
       "nombre": "BIBLIOTECA VIRTUAL eLIBROS FCEFA",
       "url": "https://elibro.net/es/lc/fcefa/inicio",
-      "font_size": 32,
+      "font_size": 20,
       "altura": 70,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF",
@@ -18,7 +18,7 @@
     {
       "nombre": "eBIBLIOTECA libros",
       "url": "https://ebiblioteca.org/lecturas/",
-      "font_size": 40,
+      "font_size": 26,
       "altura": 70,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF",
@@ -36,7 +36,7 @@
     {
       "nombre": "Proyecto Gutenberg (Español)",
       "url": "https://www.gutenberg.org/browse/languages/es",
-      "font_size": 32,
+      "font_size": 23,
       "altura": 65,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF",
@@ -72,7 +72,7 @@
     {
       "nombre": "Biblioteca Cervantes Virtual",
       "url": "https://www.cervantesvirtual.com/",
-      "font_size": 32,
+      "font_size": 23,
       "altura": 65,
       "color_fondo": "#C62828",
       "color_texto": "#FFFFFF",
